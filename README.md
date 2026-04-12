@@ -68,7 +68,7 @@ print(df.head())
 | prompt.courses     | resell    | —         | —             | 114            | 68     | 6      | Dynadot Inc          |
 | power.courses      | premium   | $130      | $130          | 98             | 62     | 5      | namecheap            |
 | nationwide.courses | available | $43.99    | $46.99        | 76             | 66     | 10     | name.com             |
-| zero.courses       | resell    | —         | —             | 112            | 54     | 4      | Spaceship, Inc.      |
+| zero.courses       | resell    | —         | —             | 112            | 53     | 4      | Spaceship, Inc.      |
 | enterprise.courses | premium   | $260      | $260          | 68             | 61     | 10     | namecheap            |
 | seventeen.courses  | available | $43.99    | $46.99        | 84             | 62     | 9      | name.com             |
 | bloom.courses      | resell    | —         | —             | 72             | 52     | 5      | Dynadot Inc          |
