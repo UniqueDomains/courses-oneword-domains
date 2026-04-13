@@ -72,17 +72,17 @@ print(df.head())
 | enterprise.courses | premium   | $260      | $260          | 68             | 61     | 10     | namecheap            |
 | seventeen.courses  | available | $43.99    | $46.99        | 84             | 62     | 9      | name.com             |
 | bloom.courses      | resell    | —         | —             | 72             | 53     | 5      | Dynadot Inc          |
-| free.courses       | premium   | $625      | $625          | 88             | 59     | 4      | name.com             |
+| ace.courses        | premium   | $625      | $625          | 88             | 57     | 3      | name.com             |
 | forge.courses      | available | $43.99    | $46.99        | 62             | 45     | 5      | name.com             |
 | play.courses       | resell    | —         | —             | 104            | 47     | 4      | Porkbun              |
-| ace.courses        | premium   | $625      | $625          | 88             | 57     | 3      | name.com             |
+| free.courses       | premium   | $625      | $625          | 88             | 57     | 4      | name.com             |
 | event.courses      | available | $44.98    | —             | 96             | 44     | 5      | namecheap            |
 | startup.courses    | resell    | —         | —             | 82             | 47     | 7      | Porkbun              |
 | data.courses       | premium   | $1,300    | $1,300        | 70             | 56     | 4      | namecheap            |
-| order.courses      | available | $43.99    | $46.99        | 78             | 41     | 5      | name.com             |
-| green.courses      | resell    | —         | —             | 108            | 45     | 5      | GoDaddy.com, LLC     |
-| good.courses       | premium   | $625      | $625          | 82             | 55     | 4      | name.com             |
 | water.courses      | available | $44.98    | —             | 108            | 40     | 5      | namecheap            |
+| green.courses      | resell    | —         | —             | 108            | 44     | 5      | GoDaddy.com, LLC     |
+| good.courses       | premium   | $625      | $625          | 82             | 55     | 4      | name.com             |
+| order.courses      | available | $43.99    | $46.99        | 78             | 40     | 5      | name.com             |
 | what.courses       | resell    | —         | —             | 90             | 44     | 4      | Mesh Digital Limited |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
