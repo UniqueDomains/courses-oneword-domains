@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .courses one-word domains from Uni
 
 **Public extract:** 9,586 rows · **Live catalog:** 9,586 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/courses`  
 **Best for:** founders, investors, studios
 
@@ -71,7 +71,7 @@ print(df.head())
 | zero.courses       | resell    | —         | —             | 112            | 53     | 4      | Spaceship, Inc.      |
 | enterprise.courses | premium   | $260      | $260          | 68             | 61     | 10     | namecheap            |
 | seventeen.courses  | available | $43.99    | $46.99        | 84             | 62     | 9      | name.com             |
-| bloom.courses      | resell    | —         | —             | 72             | 52     | 5      | Dynadot Inc          |
+| bloom.courses      | resell    | —         | —             | 72             | 53     | 5      | Dynadot Inc          |
 | free.courses       | premium   | $625      | $625          | 88             | 59     | 4      | name.com             |
 | forge.courses      | available | $43.99    | $46.99        | 62             | 45     | 5      | name.com             |
 | play.courses       | resell    | —         | —             | 104            | 47     | 4      | Porkbun              |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COURSES One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COURSES One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
