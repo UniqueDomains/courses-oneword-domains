@@ -1,22 +1,22 @@
-# Available .COURSES One-Word Domains (9,586)
+# Available .COURSES One-Word Domains (11,934)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C586%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C586%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C934%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .courses one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .courses one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,934 domains** on the canonical page below.
 
-**Public extract:** 9,586 rows · **Live catalog:** 9,586 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,934 domains
 
-**Last updated:** 2026-04-14  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/courses`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .COURSES one-word doma
 
 ### Files
 
-- `courses.csv` — public CSV extract (9,586 rows)
-- `courses.json` — public JSON extract (9,586 rows)
+- `courses.csv` — public CSV extract (1,000 rows)
+- `courses.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar            |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------- |
-| converse.courses   | available | $43.99    | $46.99        | 64             | 73     | 8      | name.com             |
-| prompt.courses     | resell    | —         | —             | 114            | 68     | 6      | Dynadot Inc          |
-| power.courses      | premium   | $130      | $130          | 98             | 62     | 5      | namecheap            |
-| nationwide.courses | available | $43.99    | $46.99        | 76             | 66     | 10     | name.com             |
-| zero.courses       | resell    | —         | —             | 112            | 53     | 4      | Spaceship, Inc.      |
-| enterprise.courses | premium   | $260      | $260          | 68             | 61     | 10     | namecheap            |
-| seventeen.courses  | available | $43.99    | $46.99        | 84             | 62     | 9      | name.com             |
-| bloom.courses      | resell    | —         | —             | 72             | 53     | 5      | Dynadot Inc          |
-| ace.courses        | premium   | $625      | $625          | 88             | 57     | 3      | name.com             |
-| forge.courses      | available | $43.99    | $46.99        | 62             | 45     | 5      | name.com             |
-| play.courses       | resell    | —         | —             | 104            | 47     | 4      | Porkbun              |
-| free.courses       | premium   | $625      | $625          | 88             | 57     | 4      | name.com             |
-| event.courses      | available | $44.98    | —             | 96             | 44     | 5      | namecheap            |
-| startup.courses    | resell    | —         | —             | 82             | 47     | 7      | Porkbun              |
-| data.courses       | premium   | $1,300    | $1,300        | 70             | 56     | 4      | namecheap            |
-| water.courses      | available | $44.98    | —             | 108            | 40     | 5      | namecheap            |
-| green.courses      | resell    | —         | —             | 108            | 44     | 5      | GoDaddy.com, LLC     |
-| good.courses       | premium   | $625      | $625          | 82             | 55     | 4      | name.com             |
-| order.courses      | available | $43.99    | $46.99        | 78             | 40     | 5      | name.com             |
-| what.courses       | resell    | —         | —             | 90             | 44     | 4      | Mesh Digital Limited |
+| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar      |
+| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------- |
+| Chanel.courses        | available | $50.98    | —             | 80             | 77     | 6      | namecheap      |
+| teachers.courses      | resell    | —         | —             | 56             | 22     | 8      | Sav.com LLC    |
+| cars.courses          | premium   | $625      | —             | 66             | 47     | 4      | name.com       |
+| makers.courses        | available | $2.19     | $38.99        | 62             | 67     | 6      | namesilo       |
+| leasing.courses       | resell    | —         | —             | 70             | 17     | 7      | Name.com, Inc. |
+| jobs.courses          | premium   | $125      | —             | 79             | 42     | 4      | name.com       |
+| RedSox.courses        | available | $50.98    | —             | 72             | 60     | 7      | namecheap      |
+| events.courses        | premium   | $125      | —             | 68             | 37     | 6      | name.com       |
+| keepthechange.courses | available | $49.99    | —             | 46             | 59     | 15     | name.com       |
+| videos.courses        | premium   | $1,250    | —             | 52             | 30     | 6      | name.com       |
+| robots.courses        | available | $2.19     | $38.99        | 62             | 47     | 6      | namesilo       |
+| has.courses           | premium   | $625      | —             | 60             | 26     | 3      | name.com       |
+| WiFi.courses          | available | $50.98    | —             | 83             | 37     | 5      | namecheap      |
+| comics.courses        | premium   | $625      | —             | 68             | 24     | 6      | name.com       |
+| stories.courses       | available | $49.99    | —             | 58             | 36     | 7      | name.com       |
+| shops.courses         | premium   | $125      | —             | 64             | 24     | 5      | name.com       |
+| William.courses       | available | $50.98    | —             | 74             | 31     | 7      | namecheap      |
+| loans.courses         | premium   | $625      | —             | 58             | 24     | 5      | name.com       |
+| spaces.courses        | available | $49.99    | —             | 54             | 30     | 6      | name.com       |
+| results.courses       | premium   | $625      | —             | 59             | 22     | 7      | name.com       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,586-row public sample | 9,586 live domains                               |
+| 1,000-row public sample | 11,934 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COURSES One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COURSES One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
