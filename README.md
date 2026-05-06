@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .courses one-word domains f
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,555 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,555 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,555 domains · **Median ask:** $89.61 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/courses`  
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,15 @@ print(df.head())
 
 | domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar      |
 | --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------- |
+| tips.courses          | available | $49.99    | —             | 80             | 26     | 4      | name.com       |
+| finals.courses        | available | $2.19     | $38.99        | 80             | 7      | 6      | namesilo       |
+| Apples.courses        | available | $50.98    | —             | 90             | 16     | 6      | namecheap      |
+| useit.courses         | available | $49.99    | —             | 94             | 7      | 6      | name.com       |
+| edamame.courses       | available | $2.19     | $38.99        | 80             | 9      | 7      | namesilo       |
+| gearup.courses        | available | $49.99    | —             | 80             | 16     | 7      | name.com       |
+| hangon.courses        | available | $49.99    | —             | 82             | 6      | 7      | name.com       |
+| makeit.courses        | available | $49.99    | —             | 82             | 22     | 7      | name.com       |
+| pierogi.courses       | available | $49.99    | —             | 82             | 7      | 7      | name.com       |
 | makers.courses        | available | $2.19     | $38.99        | 62             | 67     | 6      | namesilo       |
 | teachers.courses      | resell    | —         | —             | 56             | 22     | 8      | Sav.com LLC    |
 | cars.courses          | premium   | $625      | —             | 66             | 47     | 4      | name.com       |
@@ -75,15 +84,6 @@ print(df.head())
 | robots.courses        | available | $2.19     | $38.99        | 62             | 47     | 6      | namesilo       |
 | has.courses           | premium   | $625      | —             | 60             | 26     | 3      | name.com       |
 | William.courses       | available | $50.98    | —             | 74             | 31     | 7      | namecheap      |
-| comics.courses        | premium   | $625      | —             | 68             | 24     | 6      | name.com       |
-| spaces.courses        | available | $49.99    | —             | 54             | 30     | 6      | name.com       |
-| toys.courses          | premium   | $625      | —             | 60             | 24     | 4      | name.com       |
-| brands.courses        | available | $49.99    | —             | 62             | 28     | 6      | name.com       |
-| coupons.courses       | premium   | $1,107    | $1,107        | 52             | 24     | 7      | namesilo       |
-| pages.courses         | available | $49.99    | —             | 52             | 28     | 5      | name.com       |
-| holidays.courses      | premium   | $242      | $242          | 78             | 23     | 8      | namesilo       |
-| backyard.courses      | available | $49.99    | —             | 80             | 27     | 9      | name.com       |
-| results.courses       | premium   | $625      | —             | 59             | 22     | 7      | name.com       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,555 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,555 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+These domains are one-word names on the .courses extension, a niche TLD that signals education, training, and instructional use immediately. Examples in this set include tips.courses, WiFi.courses, homes.courses, finals.courses, and jewels.courses. The median ask is $89.61, which keeps entry cost relatively low for many buyers. When comparing these domains, focus first on whether the word naturally fits a course-led business or content offer. Then check how easy the word is to say, spell, and remember. Be stricter with terms that may create trademark exposure, especially names that match established brands.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Prioritize words that clearly fit learning, training, or education
+- The median ask is $89.61, so pricing is broadly approachable
+- Favor clear, common words over awkward or ambiguous terms
+- Avoid names with obvious trademark risk, such as brand matches
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COURSES One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COURSES One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
