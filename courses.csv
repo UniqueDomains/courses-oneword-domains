@@ -336,7 +336,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 1cb40193-41f8-4b96-858f-d7897a21a443,techniques.courses,available,2.19,38.99,50,5,10,namesilo,,
 1cd33207-da8a-4509-90b4-9beb45c83289,hovers.courses,available,2.19,38.99,56,3,6,namesilo,,
 1ce2074a-87b6-4aea-8f72-de55e9934384,yams.courses,available,2.19,38.99,56,10,4,namesilo,,
-1cec0c9a-627e-4c8e-8980-94b49dd60c0c,leasing.courses,resell,,,70,17,7,"Name.com, Inc.",30/11/2025 07:12,30/11/2026 07:12
+1cec0c9a-627e-4c8e-8980-94b49dd60c0c,leasing.courses,resell,,,70,19,7,"Name.com, Inc.",30/11/2025 07:12,30/11/2026 07:12
 1cee57ce-9aa6-4eb1-9feb-bf6a56ff2b89,getwellsoon.courses,available,49.99,,58,5,13,name.com,,
 1cf46789-a4a0-4861-b6b4-35afbe7468b1,introspection.courses,available,49.99,,66,8,13,name.com,,
 1cf51e0e-3327-4315-8250-f4ae03b34e0b,justgone.courses,available,49.99,,61,2,9,name.com,,
