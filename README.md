@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .courses one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,555 domains · **Median ask:** $89.61 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/courses`  
 **Best for:** founders, investors, studios
 
@@ -71,7 +71,7 @@ print(df.head())
 | edamame.courses       | available | $2.19     | $38.99        | 80             | 9      | 7      | namesilo       |
 | gearup.courses        | available | $49.99    | —             | 80             | 16     | 7      | name.com       |
 | hangon.courses        | available | $49.99    | —             | 82             | 6      | 7      | name.com       |
-| makeit.courses        | available | $49.99    | —             | 82             | 22     | 7      | name.com       |
+| makeit.courses        | available | $49.99    | —             | 82             | 21     | 7      | name.com       |
 | pierogi.courses       | available | $49.99    | —             | 82             | 7      | 7      | name.com       |
 | makers.courses        | available | $2.19     | $38.99        | 62             | 67     | 6      | namesilo       |
 | teachers.courses      | resell    | —         | —             | 56             | 22     | 8      | Sav.com LLC    |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COURSES One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COURSES One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
