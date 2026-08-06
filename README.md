@@ -1,10 +1,10 @@
-# Available .COURSES One-Word Domains (12,555)
+# Available .COURSES One-Word Domains (12,556)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C555%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C556%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .courses one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,555 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,556 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,555 domains · **Median ask:** $95.69 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,556 domains · **Median ask:** $87.31 · **High-demand under $2,500:** 23
 
-**Last updated:** 2026-07-07
+**Last updated:** 2026-08-06
 **Canonical page:** `https://unique.domains/domains/tld/courses`
 **Best for:** founders, investors, studios
 
@@ -64,25 +64,25 @@ print(df.head())
 
 | domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| acne.courses      | available | $2.19     | $38.99        | medium         | low    | 4      | namesilo        |
+| ache.courses      | available | $1.98     | $50.98        | low            | low    | 4      | namecheap       |
 | essential.courses | resell    | $49.99    | —             | high           | low    | 9      | Spaceship, Inc. |
 | ace.courses       | premium   | $625      | $625          | high           | medium | 3      | name.com        |
-| ahuh.courses      | available | $2.19     | $38.99        | high           | low    | 4      | namesilo        |
+| acne.courses      | available | $2.19     | $38.99        | medium         | low    | 4      | namesilo        |
 | electric.courses  | resell    | —         | —             | high           | low    | 8      | NameCheap, Inc. |
 | age.courses       | premium   | $625      | —             | high           | low    | 3      | name.com        |
-| back.courses      | available | $2.19     | $38.99        | high           | low    | 4      | namesilo        |
+| ahuh.courses      | available | $2.19     | $38.99        | high           | low    | 4      | namesilo        |
 | aid.courses       | premium   | $625      | —             | medium         | low    | 3      | name.com        |
-| bare.courses      | available | $2.19     | $38.99        | medium         | low    | 4      | namesilo        |
+| back.courses      | available | $2.19     | $38.99        | high           | low    | 4      | namesilo        |
 | Ava.courses       | premium   | $625      | —             | high           | medium | 3      | name.com        |
-| bash.courses      | available | $2.19     | $38.99        | high           | low    | 4      | namesilo        |
+| bare.courses      | available | $2.19     | $38.99        | medium         | low    | 4      | namesilo        |
 | ben.courses       | premium   | $625      | —             | high           | medium | 3      | name.com        |
-| buck.courses      | available | $2.19     | $38.99        | medium         | low    | 4      | namesilo        |
+| bash.courses      | available | $2.19     | $38.99        | high           | low    | 4      | namesilo        |
 | bio.courses       | premium   | $625      | —             | high           | medium | 3      | name.com        |
-| bush.courses      | available | $2.19     | $38.99        | medium         | low    | 4      | namesilo        |
+| buck.courses      | available | $2.19     | $38.99        | medium         | low    | 4      | namesilo        |
 | boo.courses       | premium   | $625      | —             | high           | low    | 3      | name.com        |
-| calm.courses      | available | $2.19     | $38.99        | high           | low    | 4      | namesilo        |
+| bush.courses      | available | $2.19     | $38.99        | medium         | low    | 4      | namesilo        |
 | bow.courses       | premium   | $625      | —             | high           | low    | 3      | name.com        |
-| come.courses      | available | $2.19     | $38.99        | high           | low    | 4      | namesilo        |
+| calm.courses      | available | $2.19     | $38.99        | high           | low    | 4      | namesilo        |
 | bra.courses       | premium   | $625      | —             | medium         | low    | 3      | name.com        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 12,555 live domains                        |
+| 1,000-row public sample | 12,556 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 23 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COURSES One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COURSES One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
