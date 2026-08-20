@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .courses one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,484 domains · **Median ask:** $62.91 · **High-demand under $2,500:** 24
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/courses`
 **Best for:** founders, investors, studios
 
@@ -64,10 +64,6 @@ print(df.head())
 
 | domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| come.courses      | available | $2.19     | $38.99        | high           | low    | 4      | namesilo        |
-| action.courses    | premium   | $625      | —             | high           | medium | 6      | name.com        |
-| bang.courses      | premium   | $242      | $242          | high           | low    | 4      | namesilo        |
-| fuck.courses      | premium   | $625      | —             | high           | high   | 4      | name.com        |
 | ache.courses      | available | $1.98     | $50.98        | low            | low    | 4      | namecheap       |
 | essential.courses | resell    | $49.99    | —             | high           | low    | 9      | Spaceship, Inc. |
 | ace.courses       | premium   | $625      | $625          | high           | medium | 3      | name.com        |
@@ -84,6 +80,10 @@ print(df.head())
 | ben.courses       | premium   | $625      | —             | high           | medium | 3      | name.com        |
 | back.courses      | available | $2.19     | $38.99        | high           | low    | 4      | namesilo        |
 | bio.courses       | premium   | $625      | —             | high           | medium | 3      | name.com        |
+| bare.courses      | available | $2.19     | $38.99        | medium         | low    | 4      | namesilo        |
+| boo.courses       | premium   | $625      | —             | high           | low    | 3      | name.com        |
+| bash.courses      | available | $2.19     | $38.99        | high           | low    | 4      | namesilo        |
+| bow.courses       | premium   | $625      | —             | high           | low    | 3      | name.com        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COURSES One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COURSES One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
