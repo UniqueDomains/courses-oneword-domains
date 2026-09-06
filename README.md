@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .courses one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 20,626 domains · **Median ask:** $56.20 · **High-demand under $2,500:** 26
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/courses`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,7 @@ print(df.head())
 
 | domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| come.courses      | available | $2.19     | $38.99        | high           | low    | 4      | namesilo        |
 | ache.courses      | available | $1.98     | $50.98        | low            | low    | 4      | namecheap       |
 | essential.courses | resell    | $49.99    | —             | high           | low    | 9      | Spaceship, Inc. |
 | ace.courses       | premium   | $625      | $625          | high           | medium | 3      | name.com        |
@@ -83,7 +84,6 @@ print(df.head())
 | bare.courses      | available | $2.19     | $38.99        | medium         | low    | 4      | namesilo        |
 | boo.courses       | premium   | $625      | —             | high           | low    | 3      | name.com        |
 | bash.courses      | available | $2.19     | $38.99        | high           | low    | 4      | namesilo        |
-| bow.courses       | premium   | $625      | —             | high           | low    | 3      | name.com        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COURSES One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COURSES One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
