@@ -3,7 +3,6 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 de1eed11-d4e1-4131-9d10-df34aef6b0bb,want.courses,available,49.99,,high,low,4,name.com,,,
 6e1389a8-e6a1-4b05-8c0c-6e4891cb9f54,potato.courses,available,2.19,38.99,high,low,6,namesilo,,,
 15158030-6b83-42e1-88f3-4cf8b481b2db,plentiful.courses,available,2.19,38.99,high,low,9,namesilo,,,
-4255e9f0-c9d6-4fc1-aaae-a1eb2f1bd5bd,country.courses,available,,,high,low,7,,,,
 fd29494e-2770-4e9f-8225-b2cfc91c9c8e,asopposedto.courses,available,2.19,38.99,medium,low,13,namesilo,,,
 2167655f-e2dc-4759-bd7c-7309fe2f62d9,absorbed.courses,available,43.99,46.99,high,low,8,name.com,,,
 b482eb19-93ff-4b4c-bcde-e32cde1d4b12,talk.courses,available,2.19,38.99,high,low,4,namesilo,,,
@@ -999,3 +998,4 @@ b43f0bf1-0e04-4800-acc6-6b9826146db5,commonlaw.courses,available,2.19,38.99,medi
 c8cf8a99-e9fa-4f6c-8666-0b172ffe0abd,asoneman.courses,available,2.19,38.99,medium,low,10,namesilo,,,
 b925898e-e21e-467a-9f28-b1590b7933a9,putaway.courses,available,2.19,38.99,medium,low,8,namesilo,,,
 806ded99-e433-4a56-b6a6-dd77a55d2898,february.courses,available,2.19,38.99,medium,low,8,namesilo,,,
+2ffec73c-e627-4fe3-ba43-3118ed2915fe,Media.courses,available,,,high,low,5,,,,
