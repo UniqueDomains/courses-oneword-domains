@@ -10,7 +10,6 @@ e8f74d72-ff2e-49be-ac7d-7f60dd6fddba,keepgoodtime.courses,available,49.99,,high,
 7c31c676-4993-4539-9b47-481445fa6792,officelandscape.courses,available,2.19,38.99,high,low,16,namesilo,,,
 6ad552a1-d54e-4aac-a3ff-c7b9a7cf3636,fatal.courses,available,2.19,38.99,high,low,5,namesilo,,,
 c285c6d2-35be-4b00-800f-0c6680f06270,improvize.courses,available,1.98,50.98,low,low,9,namecheap,,,
-3fab2ad8-4cd5-4d9e-94ee-ab85cb16cd16,morgan.courses,available,,,medium,low,6,,,,
 d3948ec0-4982-411e-966c-98b06a9e9e0e,coffeeman.courses,available,2.19,38.99,high,low,9,namesilo,,,
 a5b34e63-4db6-402d-a74e-dad567295290,disabled.courses,available,43.99,46.99,high,low,8,name.com,,,
 84ee1975-ede5-4f79-acf6-f81df22d8a33,saucepan.courses,available,2.19,38.99,high,low,8,namesilo,,,
@@ -26,11 +25,11 @@ ec3f901d-9d2f-4823-a473-950b390d4b44,believe.courses,available,43.99,,high,low,7
 f6c8546e-bb30-4d22-8b0b-489dc8f15161,potatocrisp.courses,available,2.19,38.99,high,low,12,namesilo,,,
 6d6a6ede-b54c-4442-9544-174920304725,acceptable.courses,available,43.99,46.99,high,low,10,name.com,,,
 eaf254c5-9bbf-4cf3-a1fa-bb8cac672ad9,los.courses,premium,625,,high,low,3,name.com,,,
-9618c976-7724-47d6-8763-b1f58c22c6e3,Shakespeare.courses,premium,242,242,high,low,11,namesilo,,,
+9618c976-7724-47d6-8763-b1f58c22c6e3,shakespeare.courses,premium,242,242,high,low,11,namesilo,,,
 fd7c44e6-ac00-41f2-99a8-d4d27c16afda,lp.courses,premium,1107,1107,medium,low,3,namesilo,,,
 bd1ebe11-1e9a-42b1-9244-d798d0e16648,compliant.courses,available,43.99,46.99,medium,low,9,name.com,,,
 4746031e-bf3a-43c9-be4c-ab1d65c927f1,absence.courses,available,2.19,38.99,medium,low,7,namesilo,,,
-ece76389-14e5-47d4-9da7-33c36c27edc8,Keys.courses,available,,,medium,medium,4,,,,
+ece76389-14e5-47d4-9da7-33c36c27edc8,keys.courses,available,,,medium,medium,4,,,,
 1537888b-3f16-4e82-84cd-f707b203bb3b,ricepaper.courses,available,2.19,38.99,medium,low,10,namesilo,,,
 e7cc276d-05e4-48a5-acb2-bad7fbd004f9,acne.courses,available,2.19,38.99,medium,low,4,namesilo,,,
 eb205430-0383-4410-8040-cc5f4bdee178,aberdonian.courses,available,1.98,50.98,low,low,10,namecheap,,,
@@ -48,9 +47,9 @@ a2c91421-3ace-4784-bfe1-b2ff2b5d7f0a,mini.courses,premium,1107,1107,high,medium,
 cbaa5f39-f39f-4ad6-b7b1-8e80dba689ed,wine.courses,premium,242,242,high,low,4,namesilo,,,
 252e5f8d-c20f-4b12-940c-09763eb2296e,shorts.courses,available,49.99,,high,low,6,name.com,,,
 b50f8625-d806-4309-9741-e348ef7219bb,mike.courses,available,49.99,,high,medium,4,name.com,,,
-513f2add-a782-4f23-82e0-e2d6b6822587,access.courses,premium,640,640,medium,medium,6,namesilo,,,15/09/2026 11:32
+513f2add-a782-4f23-82e0-e2d6b6822587,access.courses,premium,640,640,medium,low,6,namesilo,,,19/09/2026 12:18
 7604a2af-b1eb-43be-a98b-634a52e1920d,firstname.courses,available,2.19,38.99,high,low,10,namesilo,,,
-50fa0c9d-9267-40f3-a46b-b857e9b4adfd,terminated.courses,available,1.98,50.98,low,low,10,namecheap,,,13/09/2026 03:53
+50fa0c9d-9267-40f3-a46b-b857e9b4adfd,terminated.courses,available,2.19,38.99,low,low,10,namesilo,,,19/09/2026 16:25
 f693c003-4c32-4d8f-a0ec-b6094f462451,covenant.courses,available,2.19,38.99,high,low,8,namesilo,,,
 92d3c43c-4fdd-4e72-90e6-ad5cd5025c57,sheeyit.courses,available,49.99,,medium,low,7,name.com,,,
 8b422b0c-ed27-418a-8bdc-41c4e7c56ad5,comeout.courses,available,2.19,38.99,high,low,8,namesilo,,,
@@ -60,17 +59,17 @@ f9cf2dba-b303-4156-8b1a-2f645a62e130,selfconfident.courses,available,2.19,38.99,
 e8052bd2-0640-45cf-8359-27071b60677d,vague.courses,available,2.19,38.99,high,low,5,namesilo,,,
 90865c47-6343-478a-901e-eeb1d5dc26da,bowlofcherries.courses,available,2.19,38.99,high,low,16,namesilo,,,
 e71e834f-523f-4f65-919d-cc21c9f1f92a,tradition.courses,available,2.19,38.99,high,low,9,namesilo,,,
-8d0bb2d0-a7f0-47db-bbfc-255d0e6cbb17,some.courses,available,43.99,46.99,high,low,4,name.com,,,
+8d0bb2d0-a7f0-47db-bbfc-255d0e6cbb17,some.courses,available,2.19,38.99,medium,low,4,namesilo,,,19/09/2026 12:35
 bc824da8-385b-49e6-a5dc-14c0d3908fa3,apopemptic.courses,available,1.98,50.98,low,low,10,namecheap,,,06/08/2026 02:22
 2107894b-ddb7-4857-94b4-3bce8407d2ba,bang.courses,premium,242,242,high,low,4,namesilo,,,
 f50fc638-0b0a-456d-b33f-78257208a74d,electric.courses,resell,,,high,low,8,"NameCheap, Inc.",30/07/2021 11:04,30/07/2026 11:04,
 8a77e354-c8f7-44a8-9c30-cf16140af72c,telloff.courses,available,2.19,38.99,medium,low,8,namesilo,,,
 97c79297-8483-495a-b91d-888a5e0eb123,scurrilous.courses,available,1.98,50.98,low,low,10,namecheap,,,
-2589037c-7232-42fe-a8d3-222e63b0958b,Iknow.courses,available,2.19,38.99,medium,low,6,namesilo,,,
+2589037c-7232-42fe-a8d3-222e63b0958b,iknow.courses,available,2.19,38.99,medium,low,6,namesilo,,,
 bd5521b3-4e1c-4a97-bc31-904582ac0722,faveolate.courses,available,1.98,50.98,low,low,9,namecheap,,,
 26901c84-c526-4133-aaa9-886b9dbb8fbb,pending.courses,available,2.19,38.99,medium,low,7,namesilo,,,
 86c0d5c9-b11b-4fd1-a805-7002931ab66d,atleast.courses,available,2.19,38.99,medium,low,8,namesilo,,,
-daeb2154-6148-4c90-9b7c-04f9d63560d7,Remington.courses,available,2.19,38.99,high,low,9,namesilo,,,
+daeb2154-6148-4c90-9b7c-04f9d63560d7,remington.courses,available,2.19,38.99,high,low,9,namesilo,,,
 b240dd75-fb52-488c-aa7c-520b528b5181,gointo.courses,available,2.19,38.99,low,low,7,namesilo,,,16/09/2026 23:51
 32998a2b-2c93-4a61-9538-155749ec81cf,diving.courses,available,,,high,low,6,,,,
 0baf8ad7-53f5-4492-b344-c0c88200c9f4,awarding.courses,available,2.19,38.99,high,low,8,namesilo,,,
@@ -78,13 +77,13 @@ b240dd75-fb52-488c-aa7c-520b528b5181,gointo.courses,available,2.19,38.99,low,low
 9e897bce-5a88-4878-9250-59298d629056,famous.courses,premium,116,116,high,low,6,namesilo,,,
 14827f58-5f22-406f-a55c-4ea0d99c90f8,although.courses,available,2.19,38.99,medium,low,8,namesilo,,,
 57d246e5-785b-477e-9399-2675bd15b080,bowed.courses,available,1.98,50.98,low,low,5,namecheap,,,06/08/2026 14:55
-26f7b8cb-df73-4db5-8c41-1c16f53e21be,Zulutime.courses,available,49.99,,low,low,9,name.com,,,
+26f7b8cb-df73-4db5-8c41-1c16f53e21be,zulutime.courses,available,49.99,,low,low,9,name.com,,,
 03ef2cb1-14d2-44db-9b20-8e6381a7f803,pretending.courses,available,2.19,38.99,medium,low,10,namesilo,,,
 d1da5ff6-12f1-4159-a275-253d52179cd2,abject.courses,available,1.98,50.98,low,low,6,namecheap,,,
 cd811e40-f18e-4323-8696-a7a6c9cf9d65,standardize.courses,available,2.19,38.99,high,low,11,namesilo,,,
 e327b234-4244-4c85-82bc-b40469e8024f,antibiotic.courses,available,49.99,,high,low,10,name.com,,,
-11c471b1-d946-4121-a507-d3dc1e205dbc,Iwouldratherdie.courses,available,2.19,38.99,medium,low,18,namesilo,,,
-3593f21c-d1e4-4959-b9e5-c5cfed1749e8,Philly.courses,available,2.19,38.99,high,low,6,namesilo,,,
+11c471b1-d946-4121-a507-d3dc1e205dbc,iwouldratherdie.courses,available,2.19,38.99,medium,low,18,namesilo,,,
+3593f21c-d1e4-4959-b9e5-c5cfed1749e8,philly.courses,available,2.19,38.99,high,low,6,namesilo,,,
 2bad29d9-a029-49b4-9c08-f8a972699935,adulatory.courses,available,1.98,50.98,low,low,9,namecheap,,,
 14ebf82e-18f7-495f-8dc6-c6cdfaec6948,batwing.courses,available,1.98,50.98,low,low,7,namecheap,,,09/08/2026 01:49
 b141e595-397f-4ca0-be59-06e4c0d39d37,bra.courses,premium,625,,medium,low,3,name.com,,,
@@ -95,11 +94,11 @@ cf4a4b77-c8a4-40d2-92b1-6bf1a4bcf763,dotherightthing.courses,available,2.19,38.9
 159c99f2-b87c-4bcc-a16e-f612168db94f,primary.courses,premium,6250,,high,low,7,name.com,,,
 7076dc0b-48e0-4b5a-a3db-60ab4c6ff224,generally.courses,available,2.19,38.99,medium,low,9,namesilo,,,
 9795e50a-9dfc-41d3-9409-852787966935,amebous.courses,available,1.98,50.98,low,low,7,namecheap,,,
-a42562a0-b79b-4b2f-863c-6ca1df229e0c,Hans.courses,available,2.19,38.99,high,low,4,namesilo,,,
+a42562a0-b79b-4b2f-863c-6ca1df229e0c,hans.courses,available,2.19,38.99,high,low,4,namesilo,,,
 79ca9c9d-d4ef-4b2e-addb-342028dc9302,voicemail.courses,available,2.19,38.99,medium,low,10,namesilo,,,
 6e0f4630-eed8-4d37-b71b-d9317bd5ee38,limo.courses,premium,116,116,high,low,4,namesilo,,,
 c656b9b5-b5d3-4ee7-9cfc-2ea5ce54dfc0,axenic.courses,available,1.98,50.98,low,low,6,namecheap,,,08/08/2026 01:51
-7ab10060-6126-4587-afd1-0fd7b7565566,Shrek.courses,available,49.99,,high,medium,5,name.com,,,
+7ab10060-6126-4587-afd1-0fd7b7565566,shrek.courses,available,49.99,,high,medium,5,name.com,,,
 2d1fda50-2221-487b-991f-c2bb3c624ba8,decay.courses,available,49.99,,high,low,5,name.com,,,
 2e5f85f3-1b29-4bd0-abaa-4cf7f0f28b43,charleston.courses,premium,116,116,high,low,10,namesilo,,,
 09bbf736-85c1-4c1c-9b4d-18c28a1ff4eb,thank.courses,available,2.19,38.99,high,low,5,namesilo,,,
@@ -128,7 +127,7 @@ edbec83e-2f0c-4153-a8d8-c7b1a31e21b5,essential.courses,resell,49.99,,high,low,9,
 0ecb4984-a32b-4790-8c6e-c92d67da10a6,whopping.courses,available,1.98,50.98,low,low,8,namecheap,,,08/08/2026 13:14
 ec2392cf-ef48-4c6d-bc81-961da4ad177c,graphics.courses,available,2.19,38.99,high,low,8,namesilo,,,
 b1b10b42-2c5e-4abd-aff4-deace22db5bd,matisse.courses,available,2.19,38.99,high,low,7,namesilo,,,
-620e302b-35c1-4bdb-95f7-661b6513a135,NewGlasgow.courses,available,49.99,,low,low,11,name.com,,,
+620e302b-35c1-4bdb-95f7-661b6513a135,newglasgow.courses,available,49.99,,low,low,11,name.com,,,
 94a86f30-93cd-4d92-b3f3-dfcc661c4589,abducens.courses,available,1.98,50.98,low,low,8,namecheap,,,
 60db4496-bc98-4abb-94ba-232a02ee1b9a,index.courses,premium,116,116,medium,medium,5,namesilo,,,
 10657c4d-a71a-446f-834e-b01edbdad228,broadly.courses,available,2.19,38.99,medium,low,7,namesilo,,,
@@ -142,10 +141,10 @@ f30913be-8dd4-493b-af41-e5ce36688257,iron.courses,premium,625,,high,low,4,name.c
 906d27a5-f807-4d2c-be10-2883a03588a4,covid.courses,available,2.19,38.99,high,low,5,namesilo,,,
 9a3e838f-5cb9-4136-81f7-c267f46953bd,discovered.courses,available,49.99,,medium,low,10,name.com,,,
 6b48b6fd-6e6c-49d9-b8f9-132291fa5705,believable.courses,available,1.98,50.98,low,low,10,namecheap,,,09/08/2026 13:01
-ed5d4983-86f2-48ee-a1c3-45f712961166,Bflat.courses,available,2.19,38.99,medium,low,6,namesilo,,,
-039fcd76-0914-476f-a598-154139ef76d7,Germanchamomile.courses,available,2.19,38.99,high,low,16,namesilo,,,
+ed5d4983-86f2-48ee-a1c3-45f712961166,bflat.courses,available,2.19,38.99,medium,low,6,namesilo,,,
+039fcd76-0914-476f-a598-154139ef76d7,germanchamomile.courses,available,2.19,38.99,high,low,16,namesilo,,,
 0ba2b772-60de-4886-8358-06d64a69a487,mothahfuggah.courses,available,2.19,38.99,medium,low,12,namesilo,,,
-bc82df7f-ecbf-41b2-81b0-6444276e2057,Trumpian.courses,available,2.19,38.99,high,low,8,namesilo,,,
+bc82df7f-ecbf-41b2-81b0-6444276e2057,trumpian.courses,available,2.19,38.99,high,low,8,namesilo,,,
 40e40589-68b4-4a1a-9205-da63c820158d,sunset.courses,available,2.19,38.99,high,low,6,namesilo,,,
 cdb0fac4-1363-4c92-8aad-d95f10d10064,rising.courses,available,1.98,50.98,low,low,6,namecheap,,,
 6ea89b54-9ff2-4d3f-81f0-188d8d457188,groovy.courses,available,1.98,50.98,medium,low,6,namecheap,,,08/08/2026 12:35
@@ -204,14 +203,14 @@ f89631e5-4e0f-4031-b94a-ddf0676f6bfc,acarpous.courses,available,1.98,50.98,low,l
 9014b046-1a09-4ea2-b77a-bb84a79d68ea,poolside.courses,available,2.19,38.99,high,low,8,namesilo,,,
 24603e6e-cea6-4c23-8ace-8de090ddb00a,pulled.courses,available,2.19,38.99,low,low,6,namesilo,,,
 c5ffd282-4078-45ad-837d-dc2fa2dac9a8,baptised.courses,available,1.98,50.98,low,low,8,namecheap,,,08/08/2026 15:00
-42d509f5-aa95-4799-b4be-ba7dee97a6fe,WhiteHouse.courses,available,2.19,38.99,medium,low,11,namesilo,,,
+42d509f5-aa95-4799-b4be-ba7dee97a6fe,whitehouse.courses,available,2.19,38.99,medium,low,11,namesilo,,,
 c04965c9-2bca-4cab-8a56-c866cb0d2bcf,condensedmilk.courses,available,2.19,38.99,high,low,14,namesilo,,,
 ce0a414b-a63b-4f2c-8f47-a4b484d593e0,but.courses,premium,625,,high,low,3,name.com,,,
 9f565469-4aa1-4a41-b2a4-683a1abf2ee0,seeingthat.courses,available,49.99,,medium,low,11,name.com,,,
 0993f0a4-eff2-4de7-978c-80fad7901edb,over.courses,available,43.99,46.99,high,low,4,name.com,,,
 eb0941ec-8fb4-4694-be44-bb58b20e310e,promising.courses,available,2.19,38.99,high,low,9,namesilo,,,
 b16041d2-3334-48ad-b954-855eb1264019,teen.courses,available,43.99,46.99,high,low,4,name.com,,,
-e28ffca8-c3f8-4b03-b1a7-827f035edb93,NewEngland.courses,available,49.99,,medium,low,11,name.com,,,
+e28ffca8-c3f8-4b03-b1a7-827f035edb93,newengland.courses,available,49.99,,medium,low,11,name.com,,,
 c57c14ed-65a6-4696-aaec-40297c99c987,bum.courses,premium,625,625,low,low,3,name.com,,,09/08/2026 10:49
 d7f06765-7d49-4179-87cc-b9d2e93b9161,matrix.courses,available,49.99,,medium,medium,6,name.com,,,
 098b8dc7-f7fc-4252-acf4-50dc7b749907,aphaeretic.courses,available,1.98,50.98,low,low,10,namecheap,,,05/08/2026 22:45
@@ -229,10 +228,10 @@ cffb078b-3af7-4c20-af70-f96f077eddfd,hindmost.courses,available,1.98,50.98,low,l
 a9e8fde9-664f-44c4-9844-afdf474b8053,admissive.courses,available,1.98,50.98,low,low,9,namecheap,,,
 8590d112-f972-4683-941f-b048587f8079,way.courses,premium,125,,high,low,3,name.com,,,
 457f5083-6cdd-47ba-bac4-0ad84214cb7b,hardluck.courses,available,2.19,38.99,medium,low,9,namesilo,,,
-61bc17c4-84aa-48f3-99f2-a2f749bc4037,Volvo.courses,available,2.19,38.99,high,low,5,namesilo,,,
+61bc17c4-84aa-48f3-99f2-a2f749bc4037,volvo.courses,available,2.19,38.99,high,low,5,namesilo,,,
 4c02033f-a0af-410c-a2c4-684aa150197d,height.courses,available,2.19,38.99,high,low,6,namesilo,,,
 c91c6210-cb95-47b4-93b4-b050476b8b8b,accumbent.courses,available,1.98,50.98,low,low,9,namecheap,,,
-dc5356e0-20c5-4df1-926c-655515278c8f,service.courses,premium,130,130,medium,medium,7,namecheap,,,15/09/2026 20:48
+dc5356e0-20c5-4df1-926c-655515278c8f,service.courses,premium,116,116,low,low,7,namesilo,,,19/09/2026 12:20
 4e3b165a-f96b-4110-8226-cbeb5adef57b,notfor.courses,available,2.19,38.99,medium,low,7,namesilo,,,
 b2065c9a-f42e-4827-bb4f-96792b64a5b5,barometric.courses,available,1.98,50.98,low,low,10,namecheap,,,08/08/2026 20:06
 76a26fa0-feee-4c44-a6f7-63f36980ccc1,salad.courses,available,2.19,38.99,high,low,5,namesilo,,,
@@ -243,7 +242,7 @@ c9dfe50a-e17e-4e52-8ffd-f7d1cb6193d0,intriguing.courses,available,2.19,38.99,hig
 2b26cffa-29f9-4bff-bedb-bc5e18ceb08f,labor.courses,available,49.99,,medium,low,5,name.com,,,
 7e755bbb-c213-4fda-a4f1-2ec2ea754e1b,getsome.courses,available,2.19,38.99,high,low,8,namesilo,,,
 ca7f27a3-b643-4e78-90e3-f23c195f749b,oddman.courses,available,2.19,38.99,low,low,7,namesilo,,,
-d3280a96-de8f-484c-96bc-1f911cf60cbf,age.courses,premium,640,640,medium,low,3,namesilo,,,14/09/2026 03:41
+d3280a96-de8f-484c-96bc-1f911cf60cbf,age.courses,premium,650,650,medium,low,3,namecheap,,,19/09/2026 07:13
 1df481e5-c062-4500-955e-59b0e61300e9,execrable.courses,available,1.98,50.98,low,low,9,namecheap,,,
 ba4fd54b-5425-4826-ae06-ac0c9fb64a70,military.courses,premium,242,242,high,low,8,namesilo,,,
 cd2e0ef9-1ac7-4ec7-a2f9-509876d8a071,awhile.courses,available,2.19,38.99,medium,low,6,namesilo,,,
@@ -293,7 +292,7 @@ bbe66654-4f2d-4efe-9a28-7aa2b026e839,belittling.courses,available,1.98,50.98,low
 30861d97-f482-4e4c-9f0a-7d82c86dc2f4,negotiable.courses,available,1.98,50.98,low,low,10,namecheap,,,07/08/2026 06:30
 7c4a88d4-4170-4220-a9ef-f0fc0fbb9eae,acrogenic.courses,available,1.98,50.98,low,low,9,namecheap,,,
 5526cbcb-6997-4112-a6bc-6cfb373e856c,dining.courses,available,2.19,38.99,high,low,6,namesilo,,,
-b8d9b612-a94d-45b3-a57f-22187e7994e8,IamEnglish.courses,available,2.19,38.99,medium,low,12,namesilo,,,
+b8d9b612-a94d-45b3-a57f-22187e7994e8,iamenglish.courses,available,2.19,38.99,medium,low,12,namesilo,,,
 fc6d7fe2-7c75-4523-8ff1-a88c637a30f1,mosquito.courses,available,49.99,,medium,low,8,name.com,,,
 c66bef70-cd44-4244-abcd-97eda8a01a2e,asofright.courses,available,2.19,38.99,medium,low,11,namesilo,,,
 24d10b19-feb0-4995-afec-0e92b476e19f,eastern.courses,available,43.99,46.99,high,low,7,name.com,,,
@@ -311,7 +310,7 @@ dc05b3a1-90dc-4d08-9dd1-c9d4aedda8d7,streetcrime.courses,available,49.99,,low,lo
 6fb73df4-44aa-4a4f-bf0f-e4239b101261,messy.courses,premium,116,116,medium,low,5,namesilo,,,
 72172816-0cf6-4983-b1fd-ff5cd5da63fe,termination.courses,available,1.98,50.98,low,low,11,namecheap,,,04/09/2026 07:49
 6880a822-4bff-4656-aea7-d4f4fc5ed6ef,baptistic.courses,available,1.98,50.98,low,low,9,namecheap,,,08/08/2026 15:11
-bcdd5fb8-fb33-41d3-838b-31a453187d11,Ilikethat.courses,available,2.19,38.99,medium,low,11,namesilo,,,
+bcdd5fb8-fb33-41d3-838b-31a453187d11,ilikethat.courses,available,2.19,38.99,medium,low,11,namesilo,,,
 6d46c123-2c59-40fd-8dd4-b95b34259213,jetpack.courses,available,2.19,38.99,high,high,8,namesilo,,,
 393cb361-390c-46b5-bf6d-f44fb08c4cad,nash.courses,available,2.19,38.99,high,low,4,namesilo,,,
 6a9cd4ee-8505-4502-a928-72703f895d73,sip.courses,premium,625,,medium,low,3,name.com,,,
@@ -340,7 +339,7 @@ a66ed140-d35f-47e4-9b6e-cc6afa99a917,digitally.courses,available,49.99,,medium,l
 33afc560-dd78-4030-afb4-9faf5f55ecc3,unpaid.courses,available,1.98,50.98,low,low,6,namecheap,,,
 82bfb944-86c2-4b8a-aae3-097870f38b35,overtheboard.courses,available,2.19,38.99,low,low,14,namesilo,,,
 c01a78a0-1d18-471e-805c-733bf5261662,apneic.courses,available,1.98,50.98,low,low,6,namecheap,,,06/08/2026 00:40
-4e591539-1272-46bf-b58d-4606703f3293,RedNoseDay.courses,available,49.99,,low,low,12,name.com,,,
+4e591539-1272-46bf-b58d-4606703f3293,rednoseday.courses,available,49.99,,low,low,12,name.com,,,
 fc517e5b-b5b5-41c5-b5af-6aa660a05722,xviii.courses,available,43.99,46.99,medium,low,5,name.com,,,
 ee9753f8-b7d3-447e-ba3c-4b92a4c0f33e,volatile.courses,available,2.19,38.99,high,low,8,namesilo,,,
 0aa24ba2-273d-4c12-96ff-a09c96dde1f6,neutral.courses,available,43.99,46.99,high,low,7,name.com,,,
@@ -369,7 +368,7 @@ c48c74cc-489c-4c2c-818b-168ff82ca2be,stops.courses,available,49.99,,high,low,5,n
 885e8c16-2d87-4e30-b23b-e03a4b89b0ea,detached.courses,available,43.99,46.99,medium,low,8,name.com,,,
 5a5dc80f-6bbd-4077-9dab-e007b8035a6c,calm.courses,available,2.19,38.99,high,low,4,namesilo,,,
 77743e22-8f17-471f-9168-e910e51453f8,inthecan.courses,available,2.19,38.99,medium,low,10,namesilo,,,
-b5cb7660-abfb-4839-96d5-766100d75479,AmericanEnglish.courses,available,49.99,,high,low,16,name.com,,,
+b5cb7660-abfb-4839-96d5-766100d75479,americanenglish.courses,available,49.99,,high,low,16,name.com,,,
 a1c1ef63-cd86-4b1a-a55e-97e3d350eed7,getright.courses,available,2.19,38.99,high,low,9,namesilo,,,
 ee7d5a47-d616-4729-b53a-970798129182,requested.courses,available,2.19,38.99,medium,low,9,namesilo,,,
 acd5cec9-b697-4d37-bf8f-67a064de7be4,hattrick.courses,available,2.19,38.99,high,low,9,namesilo,,,
@@ -390,7 +389,7 @@ d329f862-17da-47ec-8e19-828cfdd2a598,futile.courses,available,2.19,38.99,medium,
 ba8ad3b4-51a6-4b48-bebf-46851ffc1548,budget.courses,available,43.99,,high,low,6,name.com,,,
 558743fe-c857-4748-88ba-f76b504142b9,corny.courses,available,43.99,46.99,medium,low,5,name.com,,,
 30fac2fd-fafd-4564-a532-cc8d7caf21df,prominent.courses,available,2.19,38.99,high,low,9,namesilo,,,
-5048beff-dd42-497a-9864-940a365c465b,Ihearyousay.courses,available,2.19,38.99,medium,low,14,namesilo,,,
+5048beff-dd42-497a-9864-940a365c465b,ihearyousay.courses,available,2.19,38.99,medium,low,14,namesilo,,,
 cb06668b-c750-432d-8108-da153fa9c1e5,sestet.courses,available,1.98,50.98,low,low,6,namecheap,,,
 3159b56b-28ed-4ecb-8716-df82808e7f9e,luxury.courses,premium,242,242,high,low,6,namesilo,,,
 f6ebfc5f-65f4-4225-b01e-5ef1cc8bc58d,talkto.courses,available,2.19,38.99,medium,low,7,namesilo,,,
@@ -405,7 +404,7 @@ a19b5fc3-9902-438f-9ea0-717b2080bbe3,anniversary.courses,available,2.19,38.99,hi
 193fe0a0-ec2d-4c74-9130-6f978fdd48ad,lxxviii.courses,available,1.98,50.98,low,low,7,namecheap,,,
 5070e2dc-e475-40a3-b431-188d8eccc37e,makelemonade.courses,available,2.19,38.99,high,low,13,namesilo,,,
 fd33bd93-eba0-4690-a4ba-502ac9aa3be6,trainup.courses,available,2.19,38.99,medium,low,8,namesilo,,,
-a9438724-cfb8-4853-a681-6830977f8a09,Xrated.courses,available,2.19,38.99,low,low,7,namesilo,,,
+a9438724-cfb8-4853-a681-6830977f8a09,xrated.courses,available,2.19,38.99,low,low,7,namesilo,,,
 c9cb8b9b-bc34-421c-88cd-e0288f540d98,takebystorm.courses,available,2.19,38.99,low,low,13,namesilo,,,
 d5a0a287-f04f-4b19-bad3-4cfa6d2297fa,havetherighttime.courses,available,49.99,,medium,low,19,name.com,,,
 c8f2e11d-28dc-4953-a6ff-7dc4e7174e0e,secondary.courses,premium,6250,,high,low,9,name.com,,,
@@ -415,13 +414,13 @@ f88010bb-23ae-4c2e-b483-b8d990f55369,playonwords.courses,available,2.19,38.99,lo
 fb47e878-7a90-4be6-9fd3-1dbe1220cc10,monopoly.courses,available,49.99,,medium,low,8,name.com,,,
 ba240dbc-3e67-4aa7-8828-4697e541c8ed,zen.courses,premium,625,,high,medium,3,name.com,,,
 ff96c56e-7fa6-4215-9cf1-9f3198c7418d,yourstruly.courses,available,2.19,38.99,medium,low,11,namesilo,,,
-fb0b105c-2960-4076-89b8-a5d0a052870c,Frenchloaf.courses,available,49.99,,high,low,11,name.com,,,
+fb0b105c-2960-4076-89b8-a5d0a052870c,frenchloaf.courses,available,49.99,,high,low,11,name.com,,,
 a0962fa5-9960-4033-905d-e4189db45bdd,apiculate.courses,available,1.98,50.98,low,low,9,namecheap,,,06/08/2026 00:03
 676167c4-e2d0-4fb0-84e9-988f78b4d276,areolar.courses,available,1.98,50.98,low,low,7,namecheap,,,06/08/2026 17:41
 27fa1376-3bb6-47b5-8f40-8b54454d65f4,polo.courses,available,,,high,low,4,,,,
 eb284b8c-5539-4e53-b93a-780ca4d8a93e,safesex.courses,available,2.19,38.99,medium,low,8,namesilo,,,
 5f20f08d-7334-4943-b0ba-05e577fac1e0,chickendance.courses,available,49.99,,high,low,13,name.com,,,
-512a3ebd-c871-433d-a5eb-b9b65e7635d0,ElSalvador.courses,available,,,medium,low,11,,,,
+512a3ebd-c871-433d-a5eb-b9b65e7635d0,elsalvador.courses,available,,,medium,low,11,,,,
 8ebc95d2-97f1-4162-810a-184e471f6793,pregnant.courses,available,2.19,38.99,high,low,8,namesilo,,,
 402bb285-5d62-4981-b91b-372f5d889dda,letterofwishes.courses,available,2.19,38.99,high,low,16,namesilo,,,
 1dd99966-c13b-49cc-8003-d0929bf85736,driver.courses,premium,242,242,high,low,6,namesilo,,,
@@ -437,7 +436,7 @@ edb452a5-e6e2-4d6e-b34d-c9b6d8704c85,asunder.courses,available,1.98,50.98,low,lo
 5c561cc2-1e65-4d8c-93e6-39b880745c7e,childcare.courses,available,2.19,38.99,high,low,10,namesilo,,,
 11280bd0-228c-4008-8cef-fb6f1b43bc1e,dizzy.courses,available,1.98,50.98,low,low,5,namecheap,,,
 d826a90d-457f-465c-8f57-948a5312895a,attempt.courses,available,2.19,38.99,high,low,7,namesilo,,,
-16cb7db1-1fd9-44c0-9e27-82a0cd48560e,AlbertEinstein.courses,available,2.19,38.99,high,low,15,namesilo,,,
+16cb7db1-1fd9-44c0-9e27-82a0cd48560e,alberteinstein.courses,available,2.19,38.99,high,low,15,namesilo,,,
 0efd8884-5bad-4b2f-963e-3a5a701fed6c,smash.courses,available,2.19,38.99,high,low,5,namesilo,,,
 4e71317d-3dbe-4ba1-b4e2-f83d9cf7fb7a,woody.courses,available,1.98,50.98,low,low,5,namecheap,,,06/08/2026 13:08
 b134e755-c865-428b-972a-30cbeeb2e04e,postoffice.courses,available,2.19,38.99,medium,low,11,namesilo,,,
@@ -449,7 +448,7 @@ b134e755-c865-428b-972a-30cbeeb2e04e,postoffice.courses,available,2.19,38.99,med
 f8ca84f5-aae2-4805-8f4a-a6f9b622d001,cotton.courses,available,2.19,38.99,high,low,6,namesilo,,,
 5a2ea30d-6964-4ea8-a7c4-fd63d364bda7,anybody.courses,available,49.99,,medium,low,7,name.com,,,
 e26ca664-d064-43e1-884e-df30c5a9f3d6,appeasable.courses,available,1.98,50.98,low,low,10,namecheap,,,06/08/2026 05:56
-13378829-819f-4a64-ae5b-a341d428dfd4,SierraLeone.courses,available,,,low,low,12,,,,
+13378829-819f-4a64-ae5b-a341d428dfd4,sierraleone.courses,available,,,low,low,12,,,,
 dc8e30a9-502f-4051-86b8-fcb8ab677dcc,adorable.courses,available,43.99,46.99,high,low,8,name.com,,,
 0b33415b-fb2d-4c28-b8df-2f6368cd9dc4,motley.courses,available,1.98,50.98,low,low,6,namecheap,,,07/08/2026 07:29
 87c7d733-a06b-44cf-ae1f-0d3b39e2426d,mothahfuckah.courses,available,2.19,38.99,medium,low,12,namesilo,,,
@@ -457,7 +456,7 @@ dc8e30a9-502f-4051-86b8-fcb8ab677dcc,adorable.courses,available,43.99,46.99,high
 10c33c97-d5c1-49b0-8248-ba556ecb7acc,admired.courses,available,43.99,46.99,high,low,7,name.com,,,
 ec23d8b6-239e-4fb1-86d4-80f96f7609ee,gardencentre.courses,available,2.19,38.99,high,low,13,namesilo,,,
 67a5befe-ec36-4944-ae4f-3eb706cc80f3,recent.courses,available,2.19,38.99,high,low,6,namesilo,,,
-ac14acf0-e31f-4649-958b-0f5ead4892e8,Fla.courses,premium,625,,medium,low,3,name.com,,,
+ac14acf0-e31f-4649-958b-0f5ead4892e8,fla.courses,premium,625,,medium,low,3,name.com,,,
 c402e00e-b2d5-4b23-adc9-e85652efa1b9,msg.courses,premium,625,,high,low,3,name.com,,,
 c0c40b98-a2f3-4160-8469-eded30fadfb0,sparkly.courses,available,1.98,50.98,low,low,7,namecheap,,,
 1e8b002e-4301-4f35-91fb-80ddb593cdda,xxviii.courses,available,1.98,50.98,low,low,6,namecheap,,,
@@ -466,10 +465,10 @@ c0c40b98-a2f3-4160-8469-eded30fadfb0,sparkly.courses,available,1.98,50.98,low,lo
 24f08f37-fd32-4067-a65b-4d1b3c44c77c,background.courses,available,2.19,38.99,high,low,10,namesilo,,,
 bf944c99-98a3-460e-8811-79e6676fbd0c,music.courses,premium,6250,,high,medium,5,name.com,,,
 db9c2e43-76b0-4f39-bf76-beee9af5607b,listed.courses,available,2.19,38.99,medium,low,6,namesilo,,,
-4e074a93-3dc8-4811-8344-2ce60c6a8342,Philippines.courses,available,,,low,low,11,,,,
+4e074a93-3dc8-4811-8344-2ce60c6a8342,philippines.courses,available,,,low,low,11,,,,
 a91c7152-a0ee-4a5e-b39c-f3c84540eccc,voicecall.courses,available,2.19,38.99,high,low,10,namesilo,,,
 23cb5408-a470-4d31-b79a-e6d96765e8df,rubbishbin.courses,available,2.19,38.99,medium,low,11,namesilo,,,
-5de8b9f0-1b23-4cc8-9a81-645e55696464,forest.courses,premium,640,640,medium,low,6,namesilo,,,13/09/2026 19:49
+5de8b9f0-1b23-4cc8-9a81-645e55696464,forest.courses,premium,640,640,low,low,6,namesilo,,,19/09/2026 06:42
 d9f3912c-bd58-4679-9d91-f8136de2dbad,ahuh.courses,available,2.19,38.99,high,low,4,namesilo,,,
 3797b9d0-dcf6-4d66-baa9-3b33593cd5b5,altissimo.courses,available,1.98,50.98,low,low,9,namecheap,,,
 6c855456-ab89-4e99-9652-0c96241fe50c,letgo.courses,available,2.19,38.99,high,low,6,namesilo,,,
@@ -481,7 +480,7 @@ d9f3912c-bd58-4679-9d91-f8136de2dbad,ahuh.courses,available,2.19,38.99,high,low,
 63ae1646-846a-4153-840f-9bb7538efff2,inexpensive.courses,premium,116,116,high,low,11,namesilo,,,
 1983f024-eb28-4d37-8d6a-fd73a170ba4c,perfervid.courses,available,1.98,50.98,low,low,9,namecheap,,,06/08/2026 16:29
 3cf24d44-4e39-426c-8240-c7ffe3d3dce7,burry.courses,available,1.98,50.98,low,low,5,namecheap,,,08/08/2026 17:29
-55b15fee-26d9-4d6f-b849-5a36650dbf37,learning.courses,premium,1300,1300,high,low,8,namecheap,,,
+55b15fee-26d9-4d6f-b849-5a36650dbf37,learning.courses,premium,1107,1107,medium,low,8,namesilo,,,19/09/2026 05:11
 ee7d56ed-3b6f-45e8-b259-480bf192b208,basket.courses,available,2.19,38.99,high,low,6,namesilo,,,
 31ce1303-a12a-4dcd-87cf-f6bbe01e0625,goodgame.courses,available,2.19,38.99,medium,low,9,namesilo,,,
 883a1298-96c3-458a-8590-fd101fdec463,thisminute.courses,available,2.19,38.99,low,low,11,namesilo,,,
@@ -504,7 +503,7 @@ b9fa20fe-5cf2-4275-9308-08a240f0cb26,aid.courses,premium,625,,medium,low,3,name.
 617b243f-b7c1-4bfc-bc30-93c6c20a83ce,coldwar.courses,available,2.19,38.99,medium,low,8,namesilo,,,
 60b210ab-7ec8-4819-be63-eb824df75fb1,anuretic.courses,available,1.98,50.98,low,low,8,namecheap,,,05/08/2026 21:16
 9228a849-7e19-4646-8218-768ff1dce98b,gowithoutsaying.courses,available,2.19,38.99,high,low,17,namesilo,,,
-da35278c-d6bf-42b6-a53e-09bd643cc810,TheBahamas.courses,available,,,low,low,11,,,,
+da35278c-d6bf-42b6-a53e-09bd643cc810,thebahamas.courses,available,,,low,low,11,,,,
 c1552152-3a8d-4fe0-9454-a1fb870768e6,amazing.courses,premium,625,,high,low,7,name.com,,,
 96ce3560-6589-4405-bd7a-4830230a8c65,flaring.courses,available,1.98,50.98,low,low,7,namecheap,,,
 3c348637-6bbe-469b-a3b2-6fe35ec27be4,nitric.courses,available,1.98,50.98,low,low,6,namecheap,,,08/08/2026 02:58
@@ -524,8 +523,8 @@ f3436301-8ce8-4272-a913-2a0c0642c68f,stepson.courses,available,49.99,,high,low,7
 88dc2f7b-9017-4918-b7a8-48e5c58b1dce,would.courses,available,2.19,38.99,high,low,5,namesilo,,,
 a7f33b7e-e239-4506-9635-55f442a50fd9,pilot.courses,premium,625,,high,low,5,name.com,,,
 25302faf-799a-4088-8107-0d6b3b9a92fc,bow.courses,premium,625,,high,low,3,name.com,,,
-72aae424-c359-4d22-b776-0ef60465793c,DJIA.courses,available,2.19,38.99,medium,low,4,namesilo,,,
-de91571c-d49e-4dcf-8819-6f14d1bbbb1a,relief.courses,available,1.98,50.98,medium,low,6,namecheap,,,14/09/2026 01:46
+72aae424-c359-4d22-b776-0ef60465793c,djia.courses,available,2.19,38.99,medium,low,4,namesilo,,,
+de91571c-d49e-4dcf-8819-6f14d1bbbb1a,relief.courses,available,1.98,50.98,medium,low,6,namecheap,,,19/09/2026 08:39
 86dacd4a-485c-47a1-8b79-7021c53474a3,primetime.courses,premium,625,,high,low,10,name.com,,,
 6c477a76-014b-4ae2-85b2-3c718d558deb,ahorseback.courses,available,1.98,50.98,low,low,10,namecheap,,,
 eaf03ba5-774a-4805-a298-14682b879292,headoverheels.courses,available,49.99,,high,low,15,name.com,,,
@@ -570,7 +569,7 @@ e6bf2667-91f1-4d02-9055-b1c79aa6843b,front.courses,available,2.19,38.99,high,low
 17a0fe36-607e-4f65-8262-e09bceae75ed,acroscopic.courses,available,1.98,50.98,low,low,10,namecheap,,,
 2d1fd9e3-f8a7-4db7-8504-1cd8f7d113ae,grandad.courses,available,49.99,,high,low,7,name.com,,,
 922e61ee-8083-48e4-bf92-0fe335149d25,tickledpink.courses,available,2.19,38.99,medium,low,12,namesilo,,,
-2381f162-e5cc-4f75-b2d4-b3b9a8bf733b,firm.courses,available,2.19,38.99,high,low,4,namesilo,,,
+2381f162-e5cc-4f75-b2d4-b3b9a8bf733b,firm.courses,available,2.19,38.99,medium,low,4,namesilo,,,20/09/2026 02:35
 5e6d211b-2d50-4a71-be15-533c1e012772,announced.courses,available,2.19,38.99,medium,low,9,namesilo,,,
 8037c996-1de4-43a7-8387-5f3cf4198ef0,proclaim.courses,available,2.19,38.99,high,low,8,namesilo,,,
 210f18a6-2130-4b83-9656-b60f53d0d988,assertable.courses,available,1.98,50.98,low,low,10,namecheap,,,
@@ -593,7 +592,7 @@ c01469ce-34af-426b-b282-6f7b830d3abd,spiderweb.courses,available,2.19,38.99,high
 bc4409c8-45d6-4792-a637-04fe187ec325,maketime.courses,available,49.99,,high,low,9,name.com,,,
 7475c7eb-3f31-4623-a194-ac8ff0fa2d6b,special.courses,premium,125,,high,low,7,name.com,,,
 d4c5fb37-a742-48b2-9178-3c4dab3a7e97,claire.courses,available,2.19,38.99,medium,low,6,namesilo,,,
-6fa4abad-3ad6-4393-9e6e-6a431f8e384c,Islands.courses,available,2.19,38.99,high,low,7,namesilo,,,
+6fa4abad-3ad6-4393-9e6e-6a431f8e384c,islands.courses,available,2.19,38.99,high,low,7,namesilo,,,
 f1da0145-867b-4e82-a7fd-42b7561d5a63,deliver.courses,available,2.19,38.99,high,low,7,namesilo,,,
 13587c84-86a4-4e4e-9a2b-41e0698f7240,cucumber.courses,available,49.99,,high,low,8,name.com,,,
 ed52fcc0-2f3a-425c-b4e3-4121a0cebb24,tomboy.courses,available,49.99,,medium,low,7,name.com,,,
@@ -619,7 +618,7 @@ d1b1930d-1b9a-433c-8d08-c43be60bb88d,excursion.courses,available,2.19,38.99,high
 fbc626e9-de8b-41e2-b6bb-f7c2351b15ec,golfgame.courses,available,49.99,,high,low,9,name.com,,,
 52363aa9-742c-49ea-9102-6c7106b8316c,redo.courses,available,2.19,38.99,high,low,4,namesilo,,,
 dda8ec47-ed0f-4ea4-a6f2-2904d756999d,crabby.courses,available,1.98,50.98,low,low,6,namecheap,,,08/08/2026 07:43
-bbf49e39-8414-4675-ac85-aded20ef5904,StStephen.courses,available,2.19,38.99,medium,low,10,namesilo,,,
+bbf49e39-8414-4675-ac85-aded20ef5904,ststephen.courses,available,2.19,38.99,medium,low,10,namesilo,,,
 3d13cb6f-bb48-4c6b-84d1-0fc1f22981df,smelling.courses,available,2.19,38.99,medium,low,8,namesilo,,,
 b972b369-1be9-406e-849a-4e25e6d1ba36,restrain.courses,available,2.19,38.99,medium,low,8,namesilo,,,
 de320c13-8e80-4377-a3b5-3c015a636e87,thankyou.courses,available,49.99,,high,low,9,name.com,,,
@@ -651,8 +650,8 @@ f8b0e375-b86b-412f-bb88-8750ba2bcac0,youguys.courses,available,2.19,38.99,low,lo
 61fd66a3-ba54-472f-8122-30ad2bcf1afd,bare.courses,available,2.19,38.99,medium,low,4,namesilo,,,
 5e132b5d-5aa4-40fb-ba6e-73c68513d8d4,unsatisfactory.courses,available,2.19,38.99,medium,low,14,namesilo,,,
 346bfa12-8616-4b88-99f7-1c5700432fb1,wife.courses,available,49.99,,high,low,4,name.com,,,
-3279a149-00c9-48c3-9f32-a44301f743e4,Susan.courses,available,2.19,38.99,high,low,5,namesilo,,,
-6e3eaf98-52ed-432d-bcf2-3ffe90e12276,produced.courses,available,1.98,50.98,low,low,8,namecheap,,,13/09/2026 04:02
+3279a149-00c9-48c3-9f32-a44301f743e4,susan.courses,available,2.19,38.99,high,low,5,namesilo,,,
+6e3eaf98-52ed-432d-bcf2-3ffe90e12276,produced.courses,available,2.19,38.99,low,low,8,namesilo,,,19/09/2026 16:32
 be776d0f-8c26-4632-808e-ad18fcff852c,boundary.courses,available,2.19,38.99,medium,low,8,namesilo,,,
 608e164f-5baa-4d10-88c0-f7f6d8bfe726,midday.courses,available,2.19,38.99,high,low,6,namesilo,,,
 02ab3956-e1c6-47ba-b5a5-725b3d37a761,alterative.courses,available,1.98,50.98,low,low,10,namecheap,,,
@@ -660,7 +659,7 @@ a7dd3dc2-35fa-4a27-a98c-14bd7d7a25e1,anechoic.courses,available,1.98,50.98,low,l
 2170309a-362b-4706-919e-332bf2972fb6,athousand.courses,available,2.19,38.99,medium,low,10,namesilo,,,
 7942731e-66da-44c4-9c19-1743b3a3a3c1,stretch.courses,available,43.99,46.99,high,low,7,name.com,,,
 4d4744cf-ee04-449a-8cdd-22389b096134,stockexchange.courses,premium,625,,high,low,14,name.com,,,
-a5181cdc-5f86-48ba-9804-387342e80e01,ChineseNewYear.courses,available,2.19,38.99,high,low,16,namesilo,,,
+a5181cdc-5f86-48ba-9804-387342e80e01,chinesenewyear.courses,available,2.19,38.99,high,low,16,namesilo,,,
 fa5fafd4-257d-44f9-be70-0c70f6e3c82a,andromeda.courses,available,49.99,,high,low,9,name.com,,,
 aa35598d-06c5-4f62-a79f-bb3bcd3752bd,hourly.courses,available,2.19,38.99,high,low,6,namesilo,,,
 9eb17769-8f5f-4839-abf1-39ebcaa0e2d9,structure.courses,available,1.98,50.98,medium,low,9,namecheap,,,08/09/2026 05:05
@@ -670,25 +669,25 @@ decbed9c-7c26-407c-b121-66a5207bc9aa,buttin.courses,available,1.98,50.98,low,low
 e65f4f35-201d-449a-b2b9-768431a24885,london.courses,premium,1250,,high,medium,6,name.com,,,
 e4ff65f3-1fe5-47b7-9a48-06d70b3dbe76,pointless.courses,available,2.19,38.99,medium,low,9,namesilo,,,
 7caac8dc-90da-44ec-9a49-0e60b99952d5,balzacian.courses,available,1.98,50.98,low,low,9,namecheap,,,08/08/2026 10:50
-bf30f14c-e3ad-4c4f-86e5-ac27875611c1,Scarlett.courses,available,2.19,38.99,medium,low,8,namesilo,,,
+bf30f14c-e3ad-4c4f-86e5-ac27875611c1,scarlett.courses,available,2.19,38.99,medium,low,8,namesilo,,,
 07bd1cb4-0ec1-4b5d-8ef2-25dd0c4d7d55,bedhead.courses,available,49.99,,medium,low,8,name.com,,,
 f36a88a8-397c-4f4c-ab63-5beda3979127,beardless.courses,available,1.98,50.98,low,low,9,namecheap,,,09/08/2026 04:43
 5777a585-d31a-499c-a874-0b636a024523,soldiers.courses,available,2.19,38.99,medium,low,8,namesilo,,,
 feb4d673-197d-4ebe-95a5-a14bd83f75e7,sep.courses,premium,625,,high,low,3,name.com,,,
-522efd9a-d028-4b62-87dd-ae01d7c9481d,desire.courses,available,1.98,50.98,medium,low,6,namecheap,,,15/09/2026 03:37
+522efd9a-d028-4b62-87dd-ae01d7c9481d,desire.courses,available,1.98,50.98,medium,low,6,namecheap,,,19/09/2026 18:10
 c23c4b60-6f7b-4828-9c57-020d83824c71,atrophied.courses,available,1.98,50.98,low,low,9,namecheap,,,07/08/2026 14:56
 7ccf5445-3f6f-4e7a-9619-e84ad611856c,pressed.courses,available,2.19,38.99,medium,low,7,namesilo,,,
 2b066939-bfbc-4af8-a13c-9667e053c9ed,travelling.courses,premium,1107,1107,high,low,10,namesilo,,,
 b38b4edd-c3ef-467d-88fb-6b5e1cf9563e,harrowing.courses,available,1.98,50.98,low,low,9,namecheap,,,
 1afa5d5e-888e-4d99-9d64-e08a8e8a7f69,fog.courses,premium,625,,high,low,3,name.com,,,
 18f568ec-85de-4b74-b278-db0e71a4e95b,snicker.courses,available,2.19,38.99,high,low,7,namesilo,,,
-cab28823-c4ec-43e2-bc5d-05413b8afe50,exercise.courses,available,1.98,50.98,medium,low,8,namecheap,,,14/09/2026 10:49
+cab28823-c4ec-43e2-bc5d-05413b8afe50,exercise.courses,available,2.19,38.99,medium,low,8,namesilo,,,19/09/2026 09:45
 780b7715-3ad7-4c19-a713-eb018cf6122e,upwards.courses,available,2.19,38.99,medium,low,7,namesilo,,,
 50472917-c70c-48c1-90ec-a56b7d235300,diva.courses,available,2.19,38.99,high,low,4,namesilo,,,
 fa75cfb7-7ca4-4749-acb2-9c9c28c060ba,seized.courses,available,49.99,,medium,low,6,name.com,,,
 79a67879-a72b-42f4-90f0-73a04d7cf1f4,rearmost.courses,available,1.98,50.98,low,low,8,namecheap,,,08/08/2026 06:09
 268aec00-32be-40ef-80e1-954e0d4c1d33,peremptory.courses,available,1.98,50.98,low,low,10,namecheap,,,07/08/2026 19:45
-eb63b079-3d83-4c39-b30d-d75eacfa1514,IndianaJones.courses,available,49.99,,high,low,13,name.com,,,
+eb63b079-3d83-4c39-b30d-d75eacfa1514,indianajones.courses,available,49.99,,high,low,13,name.com,,,
 0a7dae7e-93e7-4feb-a65a-a8962df954e2,fortyfive.courses,available,1.98,50.98,low,low,10,namecheap,,,
 eb5cfc28-986e-4694-b87f-aa028a9015ca,skilled.courses,premium,625,,high,low,7,name.com,,,
 ffbf4167-c6ab-4126-a237-154ac82e2962,consumption.courses,available,2.19,38.99,medium,low,11,namesilo,,,
@@ -700,12 +699,12 @@ cd3af34f-ea61-42e0-9cbb-5b2713b1eca0,airfilled.courses,available,1.98,50.98,low,
 432e682c-da69-4949-bc5b-a503911e386c,rag.courses,premium,625,625,medium,low,3,name.com,,,
 f0e71ac4-c46e-4404-a51a-17cbff7504bd,childpornography.courses,available,2.19,38.99,medium,low,17,namesilo,,,
 adc4e564-3b32-461b-803f-cd3592c60c17,binary.courses,available,2.19,38.99,high,low,6,namesilo,,,
-2247765f-3c9c-4eb2-960a-b507de0f15d7,mail.courses,premium,116,116,high,medium,4,namesilo,,,
-546e7e13-5d2d-44ae-a73a-c571cead9d0b,wall.courses,available,2.19,38.99,high,low,4,namesilo,,,
+2247765f-3c9c-4eb2-960a-b507de0f15d7,mail.courses,premium,116,116,medium,low,4,namesilo,,,19/09/2026 05:07
+546e7e13-5d2d-44ae-a73a-c571cead9d0b,wall.courses,available,1.98,50.98,low,low,4,namecheap,,,19/09/2026 13:29
 b4aa1bb3-9034-410f-8614-d8fe1d8123b6,phony.courses,available,1.98,50.98,low,low,5,namecheap,,,08/08/2026 23:09
 9d18c904-bfc4-4d40-8722-308c66e8d2dd,detergent.courses,available,43.99,46.99,high,low,9,name.com,,,
-eadf2b7b-c107-4ac7-a4f1-dac0986c6f39,Sundayroast.courses,available,2.19,38.99,high,low,12,namesilo,,,
-10b12098-a1f2-4e1d-b847-1dfc69aa7c46,action.courses,premium,625,,high,medium,6,name.com,,,
+eadf2b7b-c107-4ac7-a4f1-dac0986c6f39,sundayroast.courses,available,2.19,38.99,high,low,12,namesilo,,,
+10b12098-a1f2-4e1d-b847-1dfc69aa7c46,action.courses,premium,640,640,high,medium,6,namesilo,,,19/09/2026 23:45
 26a395d8-9676-4956-9fe4-f48491a448ac,tabletennis.courses,premium,242,242,medium,low,12,namesilo,,,
 bcd71107-218d-4c61-84ee-86d61af3b745,aggressive.courses,available,43.99,46.99,high,low,10,name.com,,,
 402aa11b-58d4-4cc8-af3e-fe7efaad2e89,closeorder.courses,available,2.19,38.99,medium,low,11,namesilo,,,
@@ -715,7 +714,7 @@ b996b1a4-9397-4ff5-8bfe-e1f1d4dcb79a,adopted.courses,available,1.98,50.98,low,lo
 dcfffc7f-4a68-4928-8b2c-86927440bf52,childsexualabuse.courses,available,2.19,38.99,medium,low,18,namesilo,,,
 30e0ce8a-6f3c-419f-bcf6-81a42c510130,planning.courses,available,2.19,38.99,high,low,8,namesilo,,,
 e03c6eb6-25a4-4521-b1ed-8eb6e5e45e5a,jack.courses,available,43.99,,high,medium,4,name.com,,,
-73cd8fd5-97bd-4c58-a5c4-50d21bdbdc0a,Ava.courses,premium,625,,high,medium,3,name.com,,,
+73cd8fd5-97bd-4c58-a5c4-50d21bdbdc0a,ava.courses,premium,625,,high,medium,3,name.com,,,
 198702f9-cde7-4279-80f4-6b5785ee0efe,adpressed.courses,available,1.98,50.98,low,low,9,namecheap,,,
 d2487ff2-93ca-4c7f-ac7e-67695f242921,stan.courses,available,2.19,38.99,high,low,4,namesilo,,,
 0008cd31-9d7d-41a6-ab32-9a4afa752abd,lucent.courses,available,1.98,50.98,low,low,6,namecheap,,,
@@ -748,17 +747,17 @@ d5c26d8a-d933-4a71-a4a3-7fbde2c04e73,acknowledge.courses,available,49.99,,high,l
 1a7f633c-007b-4b16-8b57-b4330fc42b05,sedative.courses,available,49.99,,high,low,8,name.com,,,
 c131cf78-74d2-418e-afea-29e799111a70,cooldown.courses,available,43.99,46.99,high,low,9,name.com,,,
 fdb57cfb-3f9c-4529-a5b9-cce691674ba0,clergy.courses,available,2.19,38.99,medium,low,6,namesilo,,,
-569aa4ec-780b-4f33-b6a0-6e7c69810fc8,HarleyDavidson.courses,available,2.19,38.99,high,low,15,namesilo,,,
+569aa4ec-780b-4f33-b6a0-6e7c69810fc8,harleydavidson.courses,available,2.19,38.99,high,low,15,namesilo,,,
 a91d06d6-6aec-484e-9b61-50c3b127d847,releasecandidate.courses,available,2.19,38.99,high,low,17,namesilo,,,
 12445e3b-4217-4063-b776-3dce2ce3714f,disorganised.courses,available,2.19,38.99,medium,low,12,namesilo,,,
 766f086e-f260-465a-bf10-755f6f2a0a41,list.courses,premium,116,116,high,low,4,namesilo,,,
 8525df43-98da-4f9c-b487-306a53a62908,admonitory.courses,available,1.98,50.98,low,low,10,namecheap,,,
-da4df5d5-c098-4a21-a40b-7b9c14604905,test.courses,premium,625,,high,high,4,name.com,,,
+da4df5d5-c098-4a21-a40b-7b9c14604905,test.courses,premium,640,640,low,low,4,namesilo,,,19/09/2026 10:44
 8217bde1-f04e-4881-a4f6-f70c15b8e358,bio.courses,premium,625,,high,medium,3,name.com,,,
 7f174798-0758-4569-be7e-98daab67c62b,sinners.courses,available,2.19,38.99,low,low,7,namesilo,,,
 f29c779f-dbe6-4697-9157-073529ede2ca,rules.courses,available,2.19,38.99,medium,low,5,namesilo,,,
 3ab35a52-f778-4394-aa3d-d6cfa9a3a6b2,wicked.courses,premium,125,125,high,low,6,name.com,,,
-a064f962-a9f3-4fb2-b22f-f3e4afc95c7b,CostaRica.courses,available,,,high,low,10,,,,
+a064f962-a9f3-4fb2-b22f-f3e4afc95c7b,costarica.courses,available,,,high,low,10,,,,
 d4dde2a9-8c93-491f-ac6b-736432aef6e5,abloom.courses,available,1.98,50.98,low,low,6,namecheap,,,
 ce4df8a9-310a-4047-8180-82f7111fae1f,younameit.courses,available,2.19,38.99,medium,low,11,namesilo,,,
 c194e68f-d218-48cc-9090-033073cc610f,side.courses,available,2.19,38.99,high,low,4,namesilo,,,
@@ -789,7 +788,7 @@ e1148b0b-285b-4e34-bd93-d062d2f23518,thanksto.courses,available,2.19,38.99,mediu
 68b27555-4440-422b-8f6c-f6adb5b9a461,inhibit.courses,available,2.19,38.99,medium,low,7,namesilo,,,
 ecdb2b04-4138-4680-83a6-491c1b28e1ec,noon.courses,available,2.19,38.99,high,low,4,namesilo,,,
 da19a5dd-ee2b-4577-b5f5-2f6e09236b8f,chemicaltoilet.courses,available,49.99,,medium,low,15,name.com,,,
-22a900c6-538b-4184-bfa9-673daf406b31,GermanReich.courses,available,2.19,38.99,medium,low,12,namesilo,,,
+22a900c6-538b-4184-bfa9-673daf406b31,germanreich.courses,available,2.19,38.99,medium,low,12,namesilo,,,
 fb5eb246-cff5-4bc9-a28f-0ae606154a01,havewords.courses,available,2.19,38.99,medium,low,10,namesilo,,,
 fe752ab1-f28d-4c6c-92a1-a1924d3f4345,arty.courses,available,1.98,50.98,low,low,4,namecheap,,,06/08/2026 23:51
 bde9f336-eebe-497f-bff4-7749c0a6cb0d,pronouncing.courses,available,2.19,38.99,medium,low,11,namesilo,,,
@@ -809,7 +808,7 @@ b4a1c0c2-5260-427d-ae85-eb3fff27f90f,appealing.courses,available,1.98,50.98,medi
 d268c1ec-ec3f-4e41-8709-54fa3a43c1b4,impractical.courses,available,2.19,38.99,medium,low,11,namesilo,,,
 6c98cfa8-ab93-406c-a5ac-2b24a9c3e356,onehalf.courses,available,2.19,38.99,medium,low,8,namesilo,,,
 8782266b-c7a8-4b60-8ab4-2be48155f5cc,thousandth.courses,available,1.98,50.98,low,low,10,namecheap,,,
-6289bc0f-6cd1-4b77-9706-35018a9ad54f,turmeric.courses,available,1.98,50.98,medium,low,8,namecheap,,,12/09/2026 11:21
+6289bc0f-6cd1-4b77-9706-35018a9ad54f,turmeric.courses,available,2.19,38.99,medium,low,8,namesilo,,,19/09/2026 15:28
 6b9d98f4-3927-4def-a601-8a5e2ce40231,accusative.courses,available,1.98,50.98,low,low,10,namecheap,,,
 ce58c6d1-418e-4c0f-b55b-5e48039a9a02,boots.courses,available,2.19,38.99,medium,low,5,namesilo,,,
 2d100b8e-bc2f-4254-a3fa-284709188e71,towed.courses,available,49.99,,low,low,5,name.com,,,
@@ -822,7 +821,7 @@ b35fce91-57ef-4495-b856-6b0d475a378f,aphotic.courses,available,1.98,50.98,low,lo
 38bdde63-01f0-47eb-a209-ab9f3707d601,sandwich.courses,available,2.19,38.99,high,low,8,namesilo,,,
 8cceb520-766a-48fc-914c-d4bfca5464a8,amoebic.courses,available,1.98,50.98,low,low,7,namecheap,,,
 cb292590-4f98-4c77-945e-f3221eb8e285,crab.courses,available,2.19,38.99,high,low,4,namesilo,,,
-f3673ec3-bda8-45f8-80e1-660bf2b11dad,veggie.courses,premium,650,650,medium,low,6,namecheap,,,13/09/2026 19:20
+f3673ec3-bda8-45f8-80e1-660bf2b11dad,veggie.courses,premium,640,640,medium,low,6,namesilo,,,19/09/2026 06:34
 4b81ad8a-399d-4ce4-8a4e-2cbefadd4be5,coffin.courses,available,2.19,38.99,medium,low,6,namesilo,,,
 ab9d7505-4e4f-4fc7-b4e6-3e59b89fe061,headup.courses,available,49.99,,high,low,7,name.com,,,
 188e6684-62d8-4518-ba18-3fd9fbbd2b1b,captive.courses,available,1.98,50.98,low,low,7,namecheap,,,
@@ -835,12 +834,12 @@ a2a10742-2359-46b3-bea1-68238dbedc77,shiftabout.courses,available,2.19,38.99,low
 28510a7c-405d-46c1-b3c1-1fe42a9aad30,transparent.courses,available,49.99,,high,low,11,name.com,,,
 2e82e7aa-f54b-423c-959d-0018cdc167b4,dynamic.courses,premium,250,250,high,low,7,name.com,,,
 c11476ce-cb20-4301-82f8-0c2ff71f4e6b,release.courses,available,2.19,38.99,high,low,7,namesilo,,,
-e84e74d6-8923-456d-a4f4-5d73ece52a7f,working.courses,premium,116,116,medium,low,7,namesilo,,,14/09/2026 03:37
+e84e74d6-8923-456d-a4f4-5d73ece52a7f,working.courses,premium,116,116,medium,low,7,namesilo,,,19/09/2026 07:09
 efe2ef7e-727f-4000-bc9e-6e107a16f52c,gather.courses,available,43.99,46.99,high,low,6,name.com,,,
 00fed6ca-59c3-4716-9bc1-80561e541d2d,embracing.courses,available,2.19,38.99,high,low,9,namesilo,,,
 3436ca70-a721-40de-b39b-4337bacaf16c,drive.courses,premium,625,625,high,low,5,name.com,,,
 e9dd0243-73ad-46aa-acb5-107eaf98dad6,newyear.courses,available,2.19,38.99,medium,low,8,namesilo,,,
-89095859-4ea4-468e-9154-fabbcff8e05b,Godgiven.courses,available,2.19,38.99,medium,low,9,namesilo,,,
+89095859-4ea4-468e-9154-fabbcff8e05b,godgiven.courses,available,2.19,38.99,medium,low,9,namesilo,,,
 dda3a348-5aa6-4a91-8974-7e6b4d2828a0,animist.courses,available,1.98,50.98,low,low,7,namecheap,,,
 49613c5a-f742-46a3-8d2a-ef1870ee63bd,mad.courses,premium,625,,medium,medium,3,name.com,,,
 46cef68e-9358-41c9-8c81-406f2aa76c6f,apparent.courses,available,1.98,50.98,low,low,8,namecheap,,,06/08/2026 05:08
@@ -887,10 +886,10 @@ a4c8101f-5a7a-4dca-8c4e-9e6c8b310dc0,allovertheboard.courses,available,2.19,38.9
 4d7b8923-b671-492d-b3ab-540caae9c661,discredit.courses,available,2.19,38.99,high,low,9,namesilo,,,
 702e2022-b091-48af-8562-f6f5db653a42,alley.courses,available,2.19,38.99,medium,low,5,namesilo,,,
 27e60192-205c-4512-8800-b9562f1cee22,inplaceof.courses,available,2.19,38.99,medium,low,11,namesilo,,,
-cf694153-91a2-42b0-896f-00d9427125ea,seventeen.courses,available,1.98,50.98,medium,medium,9,namecheap,,,12/09/2026 03:36
+cf694153-91a2-42b0-896f-00d9427125ea,seventeen.courses,available,1.98,50.98,medium,low,9,namecheap,,,19/09/2026 06:27
 47a1a7e8-af13-464d-a0ed-a0f9e93a8c14,pita.courses,available,2.19,38.99,high,low,4,namesilo,,,
 f98413e7-c3e3-42b3-ba32-3c31ab191807,ilx.courses,premium,625,625,low,low,3,name.com,,,
-b6f20b41-cb14-4ed3-bce8-1610db732671,NorthKorea.courses,available,2.19,38.99,low,low,11,namesilo,,,
+b6f20b41-cb14-4ed3-bce8-1610db732671,northkorea.courses,available,2.19,38.99,low,low,11,namesilo,,,
 372db487-7efe-4fd8-b1f6-14fb444c6a32,balticsea.courses,available,1.98,50.98,low,low,10,namecheap,,,08/08/2026 10:45
 a9076f5f-7822-474c-a16d-bea43456d745,creepy.courses,available,43.99,46.99,medium,low,6,name.com,,,
 f3f75594-ea8d-466e-bd37-48afaf9593f5,appendant.courses,available,1.98,50.98,low,low,9,namecheap,,,06/08/2026 06:34
@@ -902,7 +901,7 @@ e2e8cc69-63d6-499d-89c9-00e09bafc5b4,icu.courses,premium,625,,high,low,3,name.co
 7ed8c93b-26b7-455f-9b57-e22b8d9c338e,loyal.courses,available,49.99,,high,low,5,name.com,,,
 2efc5498-33a9-4530-87d0-67f453dbae80,ankledeep.courses,available,1.98,50.98,low,low,10,namecheap,,,
 db9dd661-d1c9-4f92-8feb-be076ccb0733,givenotice.courses,available,2.19,38.99,medium,low,11,namesilo,,,
-df977fd1-b8c9-4198-b98b-01ce77fb86a4,SouthAfrica.courses,available,,,low,low,12,,,,
+df977fd1-b8c9-4198-b98b-01ce77fb86a4,southafrica.courses,available,,,low,low,12,,,,
 4e92892c-b3ab-4968-b203-1a67bd165ab7,sleepwith.courses,available,49.99,,low,low,10,name.com,,,
 74e2e952-17a1-4434-84c6-117c906ee74f,american.courses,premium,625,,high,low,8,name.com,,,
 c5abc5ba-f1a9-4a4b-a5dc-843fd3081abe,courtyard.courses,available,2.19,38.99,high,low,9,namesilo,,,
@@ -923,8 +922,8 @@ d3e52d4c-c742-4ede-b743-d230ced0793b,takeonboard.courses,available,2.19,38.99,me
 8d8be880-a27f-4de3-8eea-71faba66ccf8,playing.courses,available,43.99,46.99,high,low,7,name.com,,,
 41d84c97-4f33-43b4-a0e0-b669ea846001,strong.courses,premium,116,116,high,low,6,namesilo,,,
 6a9bf70b-b072-4f91-affe-ea4edee469aa,punk.courses,available,2.19,38.99,high,low,4,namesilo,,,
-3cefa6cd-f334-4419-8d0d-6ffd36307b53,physically.courses,available,1.98,50.98,low,low,10,namecheap,,,12/09/2026 03:48
-f8e9afcd-4a37-4a7a-be44-a17f0a5260a5,journal.courses,premium,116,116,medium,low,7,namesilo,,,15/09/2026 03:33
+3cefa6cd-f334-4419-8d0d-6ffd36307b53,physically.courses,available,1.98,50.98,low,low,10,namecheap,,,19/09/2026 14:53
+f8e9afcd-4a37-4a7a-be44-a17f0a5260a5,journal.courses,premium,130,130,medium,low,7,namecheap,,,19/09/2026 18:05
 53155b3e-2787-48be-b984-a0f09c2379aa,buzzing.courses,available,1.98,50.98,low,low,7,namecheap,,,
 5827de55-3057-4a51-a985-8492f30a51de,workethic.courses,available,2.19,38.99,high,low,10,namesilo,,,
 6f339a7d-30ce-4744-af84-94f3374b4e34,boomorbust.courses,available,2.19,38.99,high,low,12,namesilo,,,
@@ -969,7 +968,7 @@ a3e11ef7-cf08-4e9e-a90c-93f168e41acd,advice.courses,available,2.19,38.99,high,lo
 4c6488ae-562e-455e-95af-b686916ea83f,fascinated.courses,available,2.19,38.99,high,low,10,namesilo,,,
 2482e07e-538f-4f3a-92bd-3d20d9f90c73,discbrake.courses,available,2.19,38.99,medium,low,10,namesilo,,,
 15c44f6d-1740-4e62-abb4-a586985fb214,reflexively.courses,available,2.19,38.99,low,low,11,namesilo,,,
-235fea97-070b-4f1e-8b52-b18e2ea294fd,QueenElizabeth.courses,available,2.19,38.99,high,low,15,namesilo,,,
+235fea97-070b-4f1e-8b52-b18e2ea294fd,queenelizabeth.courses,available,2.19,38.99,high,low,15,namesilo,,,
 ba0fac1a-ffaa-4fde-8888-3bcb978e04a8,outdoor.courses,premium,625,,high,low,7,name.com,,,
 87902da5-9873-48f9-b830-eb1be58cf609,teeshirt.courses,available,49.99,,high,low,9,name.com,,,
 1093dad9-1d56-4d52-a0f3-b1eac4000e0c,bothered.courses,available,2.19,38.99,medium,low,8,namesilo,,,
@@ -998,4 +997,5 @@ b43f0bf1-0e04-4800-acc6-6b9826146db5,commonlaw.courses,available,2.19,38.99,medi
 c8cf8a99-e9fa-4f6c-8666-0b172ffe0abd,asoneman.courses,available,2.19,38.99,medium,low,10,namesilo,,,
 b925898e-e21e-467a-9f28-b1590b7933a9,putaway.courses,available,2.19,38.99,medium,low,8,namesilo,,,
 806ded99-e433-4a56-b6a6-dd77a55d2898,february.courses,available,2.19,38.99,medium,low,8,namesilo,,,
-2ffec73c-e627-4fe3-ba43-3118ed2915fe,Media.courses,available,,,high,low,5,,,,
+2ffec73c-e627-4fe3-ba43-3118ed2915fe,media.courses,available,,,high,low,5,,,,
+466811cd-3c5f-4cb3-b700-e06261640b43,albinotic.courses,available,1.98,50.98,low,low,9,namecheap,,,
