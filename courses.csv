@@ -17,6 +17,7 @@ ab31258c-28a7-4d1b-85e4-8650a05a1026,equipping.courses,available,2.19,38.99,medi
 8f7fdd19-7761-429a-af72-9f86ea973785,julian.courses,available,1.98,50.98,high,low,6,namecheap,,,22/08/2026 14:19
 dc62d9e9-783c-4a84-8c49-dab4cc1cf5d7,bailment.courses,available,1.99,49.99,medium,low,8,name.com,,,21/09/2026 19:09
 bcd8ac63-71c5-4673-91dc-8ded0b811053,sums.courses,available,2.19,38.99,medium,low,4,namesilo,,,18/09/2026 07:08
+2fc9dc06-12fd-4ba5-8b26-823741b60acf,terrace.courses,available,1.54,31.41,medium,low,7,porkbun,,,28/09/2026 20:08
 28273e0d-1c29-4ef1-bbfd-c72d95d1a29b,arapahoe.courses,available,2.19,38.99,medium,low,8,namesilo,,,20/09/2026 00:11
 7c5dd35c-410d-4334-9ed4-98aa5417fca3,venereal.courses,available,1.98,50.98,medium,low,8,namecheap,,,18/08/2026 21:42
 1945bac6-db4e-4814-9654-9eb69a41d42a,wandered.courses,available,2.19,38.99,medium,low,8,namesilo,,,18/09/2026 02:36
@@ -26,12 +27,14 @@ f87ff8fd-560c-4a53-b18c-020e922b0d8e,classy.courses,available,1.98,50.98,high,lo
 80817cc3-f46e-4b14-9293-521eb5b167c8,protean.courses,available,1.98,50.98,high,low,7,namecheap,,,09/09/2026 04:06
 2a4bbae8-fc42-46ba-8606-cc9f75af7221,rook.courses,available,1.98,50.98,high,low,4,namecheap,,,14/09/2026 07:54
 1b52a3a7-4c87-43bc-b983-772be4309e14,allure.courses,available,1.99,49.99,high,low,6,name.com,,,18/09/2026 12:11
+1b7f01e3-64cd-488c-bc57-bd167eec6304,skiing.courses,premium,1035.2,1035.2,high,low,6,spaceship,,,28/09/2026 10:57
 8027c9ac-4f4f-4e1d-b522-067a2dec8315,outboard.courses,available,1.98,50.98,high,low,8,namecheap,,,04/09/2026 18:55
 47bc8e8a-9b41-4fcf-8c2b-9a06198c55ed,fur.courses,premium,640,640,high,low,3,namesilo,,,27/09/2026 04:05
 8edeadc1-a554-4c8a-ba55-db5b3f76d3c3,punitive.courses,available,1.98,50.98,high,medium,8,namecheap,,,09/09/2026 06:02
 27e46768-117c-4ef5-9e44-c84796c96ea1,clastic.courses,available,1.98,50.98,medium,low,7,namecheap,,,12/08/2026 09:56
 6fe04350-294b-47f1-bfe9-0c9c44aea339,estival.courses,available,1.98,50.98,medium,low,7,namecheap,,,
 7b6869f6-ac79-409b-a03d-212d955d9c79,squiffy.courses,available,1.98,50.98,low,low,7,namecheap,,,09/08/2026 16:38
+1d711c69-030e-4f95-a7ec-58f8c337de26,stepfather.courses,available,2.19,38.99,medium,low,10,namesilo,,,29/09/2026 02:13
 afe284b9-1915-41a8-af33-f97e76187ed8,cements.courses,available,2.19,38.99,medium,low,7,namesilo,,,20/09/2026 09:07
 0edcaff9-0d74-49c4-abf4-137b37706979,assize.courses,available,1.98,50.98,medium,low,6,namecheap,,,20/09/2026 16:30
 00e3026b-fe93-4752-aa61-47654a05d8dc,moore.courses,available,1.24,31.28,high,low,5,spaceship,,,27/09/2026 13:11
@@ -40,16 +43,17 @@ d4d920f4-59c9-4fd2-9c47-ec63ac5329b9,acceptor.courses,available,1.98,50.98,high,
 369cb20a-5447-418c-95a1-edc338f59bb0,unrealised.courses,available,1.98,50.98,medium,low,10,namecheap,,,12/09/2026 11:02
 e540547a-996a-4eb9-81fa-833cd983d975,sheldon.courses,available,2.19,38.99,high,low,7,namesilo,,,25/09/2026 15:25
 c4f8cd9b-b37a-430b-9b62-ff55195e23f0,jargon.courses,available,1.98,50.98,high,low,6,namecheap,,,13/09/2026 04:10
-71573e41-0574-47c0-bde5-001b25151459,functional.courses,available,2.19,38.99,high,low,10,namesilo,,,25/09/2026 05:04
+71573e41-0574-47c0-bde5-001b25151459,functional.courses,available,1.24,31.28,high,low,10,spaceship,,,28/09/2026 13:05
 ecd370a8-c8cf-46ac-962a-ca148413f764,cloze.courses,available,1.98,50.98,medium,low,5,namecheap,,,12/08/2026 12:54
 1e557be1-7f50-4c77-a298-f9c8d60e0d07,biting.courses,available,1.98,50.98,medium,low,6,namecheap,,,08/08/2026 16:41
 324f5ca5-1640-448c-8c5b-5e5748a9e7ac,drummond.courses,available,1.98,50.98,medium,low,8,namecheap,,,25/09/2026 15:26
 4d7b7b04-dcc3-4e49-bf1d-07345e773425,puppy.courses,premium,103.7,103.7,high,low,5,spaceship,,,27/09/2026 15:27
 ab1508f1-7e01-431d-bc1b-85f2bd19721f,dorian.courses,available,1.98,50.98,high,low,6,namecheap,,,14/08/2026 16:11
-deae6692-2000-4d98-a4d1-fb0299a22dee,adieu.courses,available,2.19,38.99,high,low,5,namesilo,,,
+deae6692-2000-4d98-a4d1-fb0299a22dee,adieu.courses,available,1.24,31.28,high,low,5,spaceship,,,28/09/2026 18:34
 df26224b-c3da-430b-b185-3070a35b2094,apc.courses,premium,650,650,high,low,3,namecheap,,,19/09/2026 16:23
 30fd669b-7a10-4967-8fbb-e5d279c1e1e3,colorectal.courses,available,1.98,50.98,medium,low,10,namecheap,,,12/08/2026 17:46
-4f7a16ca-fd95-4202-a205-e63f9bb65bd1,fame.courses,available,2.19,38.99,high,low,4,namesilo,,,
+4f7a16ca-fd95-4202-a205-e63f9bb65bd1,fame.courses,available,1.24,31.28,high,low,4,spaceship,,,28/09/2026 07:34
+4bb13d14-c0f3-49e0-8535-0b45a8e9c048,finances.courses,available,2.19,38.99,high,low,8,namesilo,,,29/09/2026 00:22
 c5e65749-10ad-4802-a8a5-52f2cf7aec5a,gird.courses,available,2.19,38.99,medium,low,4,namesilo,,,20/09/2026 06:19
 7d5b066b-799d-4624-8715-5c98261cb314,constant.courses,available,1.98,50.98,high,low,8,namecheap,,,11/08/2026 23:02
 ade76b51-37b5-46f1-9049-45077e41bbe2,pins.courses,available,1.98,50.98,high,low,4,namecheap,,,18/09/2026 08:25
@@ -66,6 +70,7 @@ d1c93fc6-a275-4f51-8244-2ee76bcc06db,acerbity.courses,available,2.19,38.99,mediu
 c84a7db7-144d-4a17-901c-1f5a4a9beb36,someway.courses,available,1.98,50.98,medium,low,7,namecheap,,,15/09/2026 06:46
 ca1c1df0-cf58-4f41-8bc8-7b6fc6f37e10,antithetic.courses,available,1.98,50.98,medium,low,10,namecheap,,,05/08/2026 19:49
 4b78c609-495d-4838-8200-6a53e7ba17d6,unkeyed.courses,available,1.98,50.98,low,low,7,namecheap,,,07/08/2026 13:50
+1dcb293e-61f0-48d2-8b02-87af9cb2de8b,sorbonne.courses,available,1.24,31.28,high,low,8,spaceship,,,28/09/2026 20:07
 b8b690a1-7c1a-479d-acac-45cb8fc2d3ac,darkness.courses,available,1.99,49.99,high,low,8,name.com,,,13/08/2026 17:53
 c2b274bf-8e1f-4541-845c-641f2830ec28,statement.courses,available,1.24,31.28,high,low,9,spaceship,,,28/09/2026 05:17
 69ec0000-5457-4e5a-b61b-70e4bb4e1cac,abattis.courses,available,2.19,38.99,medium,low,7,namesilo,,,16/09/2026 14:11
@@ -82,23 +87,27 @@ d388fd8d-87fe-40e6-9e5f-28812b08328e,baize.courses,available,1.98,50.98,medium,l
 e66b628e-e6ed-49c8-8203-98850541175a,bicycling.courses,premium,260,260,high,low,9,namecheap,,,23/09/2026 13:28
 1c32a0bb-607d-4f80-b4e1-d331cbf8c93b,momentary.courses,available,1.98,50.98,medium,low,9,namecheap,,,18/08/2026 07:54
 4fb65247-a66c-405d-b89b-cbface3a58be,firework.courses,available,1.98,50.98,high,low,8,namecheap,,,09/09/2026 07:10
-a8d1400c-7d09-4326-9e24-edbeb72b7825,backpack.courses,available,2.19,38.99,high,low,8,namesilo,,,
+a8d1400c-7d09-4326-9e24-edbeb72b7825,backpack.courses,available,2.19,38.99,high,low,8,namesilo,,,29/09/2026 00:17
 39247d82-9eaa-40ba-91fb-db35a593ff4e,graveyard.courses,available,2.19,38.99,high,low,9,namesilo,,,28/09/2026 01:14
 15eca1e7-d26d-44fc-853d-d947e0a1f688,miotic.courses,available,1.98,50.98,medium,low,6,namecheap,,,25/08/2026 01:00
+e56a4ad7-4783-4ae0-bf11-6c73d5ef8145,cuff.courses,available,1.24,31.28,medium,low,4,spaceship,,,29/09/2026 00:32
 db8a90ea-e5a0-4d9c-a128-9bf78bb9199e,cosmogenic.courses,available,1.98,50.98,medium,low,10,namecheap,,,13/08/2026 03:00
 416fb861-d100-4e5a-94d5-2e55c6fbcde1,tough.courses,premium,116,116,high,low,5,namesilo,,,22/09/2026 16:19
 8d8285ee-3ae1-4182-8393-1846b933694a,amusing.courses,available,1.98,50.98,high,low,7,namecheap,,,
-4f1934f6-fc2d-41ba-bf11-5794f165d029,blues.courses,available,2.19,38.99,high,low,5,namesilo,,,
+4f1934f6-fc2d-41ba-bf11-5794f165d029,blues.courses,available,2.19,38.99,high,low,5,namesilo,,,29/09/2026 03:01
 901c9966-6115-4022-975b-f2c021b8a5c7,samarium.courses,available,2.19,38.99,medium,low,8,namesilo,,,20/09/2026 23:24
 067b07d2-97f8-4b49-aa12-46639f97c92b,snapping.courses,available,2.19,38.99,high,low,8,namesilo,,,
 2754756d-ef2f-4ff8-9b25-33338488ce67,lanky.courses,available,1.98,50.98,medium,low,5,namecheap,,,18/08/2026 20:11
 1600bafb-2b33-4958-a9f8-1a53cc2c473f,germinal.courses,available,1.98,50.98,medium,low,8,namecheap,,,18/08/2026 22:49
 150464ca-1276-4062-81de-15040fb8ee39,barm.courses,available,2.19,38.99,medium,low,4,namesilo,,,22/09/2026 06:34
+2a8157cd-edf2-4a0e-832d-b7013c859ebc,herbert.courses,available,2.19,38.99,high,low,7,namesilo,,,28/09/2026 10:02
+2711856e-8f60-48b1-a950-cf92b15eaddb,hiking.courses,premium,242,242,high,low,6,namesilo,,,29/09/2026 01:18
 738c2173-5bc0-4249-a050-252115efc317,nepalese.courses,available,1.98,50.98,medium,low,8,namecheap,,,03/09/2026 15:35
 f89631e5-4e0f-4031-b94a-ddf0676f6bfc,acarpous.courses,available,1.98,50.98,medium,low,8,namecheap,,,
 09eb4b56-5ab6-4e63-96c9-5f741c5ed6bf,peaceful.courses,available,2.19,38.99,high,low,8,namesilo,,,27/09/2026 03:13
 9b4fd713-a63d-4034-bf88-dfd98886e989,pcp.courses,premium,640,640,high,low,3,namesilo,,,19/09/2026 05:52
 73a6da9d-3f71-4b5e-8218-9cdf464f972a,foretell.courses,available,2.19,38.99,high,low,8,namesilo,,,21/09/2026 03:34
+ccddf83e-b6ce-4d82-8f4d-46efaa713aea,incorporate.courses,available,2.19,38.99,high,low,11,namesilo,,,29/09/2026 02:35
 1a55f7ab-72df-4613-967a-63afe22ce39e,neo.courses,premium,640,640,high,medium,3,namesilo,,,03/09/2026 15:19
 767289af-da58-44e8-9208-a389d2ec7f9a,catches.courses,available,1.5,32.32,medium,low,7,dynadot,,,28/09/2026 04:27
 fb78ddb3-44eb-4dcf-86a2-bf1f696d0fb4,phycology.courses,available,2.19,38.99,medium,low,9,namesilo,,,18/09/2026 07:09
@@ -117,13 +126,15 @@ fb31f179-8a93-4e2b-819b-8172debd127a,thaw.courses,available,1.98,50.98,high,low,
 15246122-9196-48a5-992c-0b485f99fca7,elfish.courses,available,1.98,50.98,medium,low,6,namecheap,,,16/08/2026 03:41
 8ebc390c-b952-4ebd-9f81-f9fa50078767,huntington.courses,available,2.19,38.99,high,low,10,namesilo,,,25/09/2026 04:18
 17fc026a-c595-479a-93c1-b53b0972824f,theater.courses,available,2.19,38.99,high,low,7,namesilo,,,28/09/2026 03:50
+b75f5c21-93d5-4d88-bb43-3583d36a8e43,amer.courses,available,1.24,31.28,medium,low,4,spaceship,,,28/09/2026 17:41
 43b1c85b-d1ea-44c6-b605-12a45362d522,fried.courses,available,1.98,50.98,medium,low,5,namecheap,,,13/08/2026 22:34
 8f529792-bf1f-497c-9fc2-5d849af503e6,tabu.courses,available,1.98,50.98,high,low,4,namecheap,,,18/08/2026 11:04
-c7d8a614-0549-4169-9285-16ef662eead4,book.courses,premium,625,,high,medium,4,name.com,,,
+c7d8a614-0549-4169-9285-16ef662eead4,book.courses,premium,517.7,517.7,high,medium,4,spaceship,,,28/09/2026 07:19
 82e9f01d-25c0-46c6-9f5e-ba06362aafce,chaste.courses,available,1.98,50.98,high,low,6,namecheap,,,12/08/2026 03:11
 2686e8f3-b16f-44d4-b442-36f8f9b74636,smasher.courses,available,1.98,50.98,high,low,7,namecheap,,,22/08/2026 16:38
 c79062f9-33fc-4455-88a9-15c8ab362e20,inhabited.courses,available,1.98,50.98,high,low,9,namecheap,,,22/08/2026 04:59
 bb7828bc-744e-4fad-a874-f98bd635b9aa,mooch.courses,available,1.98,50.98,medium,low,5,namecheap,,,11/08/2026 09:27
+6e78b985-3317-4697-86a0-1492a92038d2,kidnap.courses,available,1.24,31.28,medium,low,6,spaceship,,,28/09/2026 20:48
 5eb7c0ec-2001-4fee-af76-af3465873652,athabascan.courses,available,1.98,50.98,medium,low,10,namecheap,,,20/09/2026 20:23
 0d2491b2-6062-48c9-8279-f801ad876151,marsupial.courses,available,1.98,50.98,high,low,9,namecheap,,,24/08/2026 16:32
 577be31a-99a0-4d37-acb0-d71ddc5b62d5,abidjan.courses,premium,260,260,medium,low,7,namecheap,,,16/09/2026 15:38
@@ -134,15 +145,18 @@ c78b3e68-3955-4e49-a0c3-ad2d3febdae9,doubtful.courses,available,2.19,38.99,mediu
 8ac7685c-1566-4f40-9e8f-9c6eeef7c34c,darling.courses,available,1.98,50.98,high,low,7,namecheap,,,09/08/2026 13:48
 0c0f50db-6b3b-400b-8209-b503d21a67e2,dispensed.courses,available,1.98,50.98,medium,low,9,namecheap,,,14/08/2026 11:54
 4c6a0845-afd5-4ec6-b555-8a3da899d9c9,tzarist.courses,available,1.99,49.99,medium,low,7,name.com,,,13/08/2026 14:59
+e498d9f7-51bf-44f6-a11c-7464de1770a8,goals.courses,available,1.24,31.28,high,low,5,spaceship,,,28/09/2026 07:10
 19c1f42b-07a1-49a4-a696-28405a6bbbfd,veal.courses,available,2.19,38.99,medium,low,4,namesilo,,,
 7f41c3a4-0e7f-4f05-b4f9-34ba7f8ba14f,nookie.courses,available,1.98,50.98,medium,low,6,namecheap,,,18/08/2026 17:31
 e31cf415-fc60-4558-8816-302e75e655d6,alprazolam.courses,available,1.98,50.98,medium,low,10,namecheap,,,18/09/2026 14:08
 60c39d87-d093-4bab-ab4f-8920cf5754be,shirley.courses,available,2.19,38.99,high,low,7,namesilo,,,25/09/2026 13:56
+f1fb2a9e-5d9c-41a7-9c9c-473d7c7177e1,hopper.courses,available,2.19,38.99,high,low,6,namesilo,,,28/09/2026 09:55
 429863a1-9b2f-4995-a3db-dfd789fa7985,browsing.courses,available,2.19,38.99,high,low,8,namesilo,,,
 451d9ba3-ecaa-464c-8502-f8f87aad1126,dandyish.courses,available,1.99,49.99,medium,low,8,name.com,,,13/08/2026 17:03
 ad014a41-c03a-43a8-a344-cfdd43d32476,cadillac.courses,available,2.19,38.99,high,low,8,namesilo,,,
 80f14f49-6446-493b-bdd7-e55341c22150,eastbound.courses,available,1.98,50.98,high,low,9,namecheap,,,14/08/2026 22:50
 d83f0efa-6b45-4c9f-b0ed-117651b43305,introduces.courses,available,1.98,50.98,medium,low,10,namecheap,,,18/09/2026 14:34
+65d32ddd-e815-466a-91b1-ed5757c997f1,mbe.courses,premium,517.7,517.7,high,low,3,spaceship,,,28/09/2026 22:27
 3d32676a-50e4-4ae7-839d-52fa7f5ce41b,jet.courses,premium,625,625,high,medium,3,name.com,,,12/08/2026 13:39
 63444f99-4696-4dce-b303-52ff8fc8fb23,balm.courses,available,1.98,50.98,high,low,4,namecheap,,,21/09/2026 23:35
 c52d40b8-7cf2-433e-96a1-eeb1a99304b1,pictured.courses,available,1.98,50.98,medium,low,8,namecheap,,,14/08/2026 02:14
@@ -164,19 +178,22 @@ a3a855df-39c2-4782-a358-5ee7901e6922,difference.courses,available,2.19,38.99,hig
 54383e61-0824-4bd4-83b4-32aa59dd76f5,apadana.courses,available,2.19,38.99,medium,low,7,namesilo,,,19/09/2026 16:10
 7f11f49a-3071-49c3-a6eb-1fd4a28bc851,pyemic.courses,available,1.98,50.98,high,medium,6,namecheap,,,09/09/2026 06:48
 c869a326-32c5-4600-9d54-d07b32c7cdef,biplane.courses,available,1.99,49.99,high,low,7,name.com,,,23/09/2026 19:18
+956e6a1f-f5ff-4e57-93d1-191cd5a41560,solving.courses,available,2.19,38.99,high,low,7,namesilo,,,29/09/2026 02:13
 d3739ba5-b2f2-43eb-bd2f-6efefdb9b708,unfaithful.courses,available,1.98,50.98,medium,low,10,namecheap,,,17/08/2026 21:18
 b186d0b9-2afa-4434-973b-255f28d6e3bc,bring.courses,available,2.19,38.99,high,low,5,namesilo,,,25/09/2026 05:59
-c1408c07-0012-4d7b-af5b-0bbe096dddc9,genuinely.courses,available,2.19,38.99,high,low,9,namesilo,,,
+c1408c07-0012-4d7b-af5b-0bbe096dddc9,genuinely.courses,available,2.19,38.99,medium,low,9,namesilo,,,28/09/2026 13:10
+fd5e413a-c0b1-485d-b5ab-3c560cb30d30,realm.courses,available,2.19,38.99,high,low,5,namesilo,,,28/09/2026 14:39
 5683d900-f64a-488e-a537-63fcb7a994ea,penalties.courses,available,2.19,38.99,high,low,9,namesilo,,,
 d242077f-c388-40d9-aad2-0b83162d4f71,windows.courses,premium,640,640,high,medium,7,namesilo,,,19/09/2026 04:22
 1d9ed6d7-f806-4c2f-912a-23f169015cfe,stove.courses,available,1.98,50.98,high,low,5,namecheap,,,19/09/2026 18:48
 d23f3db7-1773-4a4f-a923-bdbd63a75ea8,clerical.courses,available,1.98,50.98,high,low,8,namecheap,,,12/08/2026 10:48
-ae782bbc-1f17-4563-ac8d-c48df11ba8c4,success.courses,premium,116,116,high,low,7,namesilo,,,
+ae782bbc-1f17-4563-ac8d-c48df11ba8c4,success.courses,premium,109.69,109.69,high,low,7,porkbun,,,28/09/2026 17:50
 cfca4240-4354-4e86-ae6d-719e56fd4849,roving.courses,available,1.98,50.98,high,low,6,namecheap,,,25/08/2026 02:22
-a0712c77-05d4-496d-9551-fe21c5da2f1c,folder.courses,available,43.99,,high,low,6,name.com,,,
 94ecbcb1-079e-48ba-a5f6-f6d64d85cee2,normandy.courses,premium,116,116,medium,low,8,namesilo,,,
 d6a63f5f-b3b1-4aa5-afa1-59e93d5507ce,jacobean.courses,available,1.98,50.98,high,low,8,namecheap,,,22/08/2026 11:47
 1448de81-01a1-48c3-97f7-3ed340e7095a,conceit.courses,available,2.19,38.99,medium,low,7,namesilo,,,18/09/2026 22:51
+6fbd0137-8695-4452-83d0-576bab5a44d9,trance.courses,available,2.19,38.99,high,low,6,namesilo,,,28/09/2026 13:44
+3d6dc323-af12-4c37-b112-e3a1a60b1aa2,fuchs.courses,available,1.24,31.28,medium,low,5,spaceship,,,28/09/2026 14:00
 72172816-0cf6-4983-b1fd-ff5cd5da63fe,termination.courses,available,1.98,50.98,high,low,11,namecheap,,,04/09/2026 07:49
 ee6ea82a-46c7-489c-a631-7f5d78d4c484,navy.courses,premium,250,,high,low,4,name.com,,,
 d6e92bfb-72fc-459e-bad8-a175e69f3365,plastered.courses,available,1.98,50.98,medium,low,9,namecheap,,,09/08/2026 15:43
@@ -186,6 +203,8 @@ b2065c9a-f42e-4827-bb4f-96792b64a5b5,barometric.courses,available,1.98,50.98,med
 7765039a-ec38-4509-b8b0-bf9e19c148be,tawny.courses,available,1.98,50.98,high,low,5,namecheap,,,11/09/2026 09:19
 c7fba599-6f76-465b-8c72-c22ae1f004ca,cook.courses,premium,640,640,high,low,4,namesilo,,,27/09/2026 10:07
 27c61cc0-f1e4-4790-8133-56c51757f295,geared.courses,available,1.98,50.98,high,low,6,namecheap,,,18/08/2026 20:59
+ccdcb8bc-466d-4335-820a-75479f59b690,darker.courses,available,2.19,38.99,low,low,6,namesilo,,,28/09/2026 23:20
+d6393fa1-e3db-4818-b54d-a5f7479e9567,laredo.courses,premium,130,130,medium,low,6,namecheap,,,28/09/2026 19:41
 f45dea66-5553-4cdf-9633-913461fce99b,korzybski.courses,available,2.19,38.99,medium,low,9,namesilo,,,18/09/2026 06:31
 4273c258-9c31-4ce4-8285-1c1c7a995fa7,plowed.courses,available,1.98,50.98,medium,low,6,namecheap,,,08/09/2026 21:24
 5aff6c17-3343-400a-bdc4-fda9f0ea908b,vindicator.courses,available,1.98,50.98,medium,low,10,namecheap,,,19/09/2026 18:48
@@ -207,12 +226,14 @@ cab9fe7f-3c07-4683-8ed2-d0dcb2ac29d8,dictated.courses,available,1.98,50.98,mediu
 cb272f97-5cb9-416f-8f2f-d7a74a44baae,skepticism.courses,available,1.98,50.98,medium,low,10,namecheap,,,24/09/2026 22:29
 47b9e0d7-1abc-4e51-9f04-16cccceafbb7,bamboo.courses,available,2.19,38.99,high,medium,6,namesilo,,,22/09/2026 00:40
 1d0d14f7-4eef-4bcc-bd2f-a236cd4a4c50,hispanic.courses,available,1.98,50.98,high,low,8,namecheap,,,21/08/2026 09:44
+c9c4a597-8e45-4774-98db-57d8e7ee811b,fireplace.courses,available,2.19,38.99,high,low,9,namesilo,,,28/09/2026 14:11
 7b596d01-fd65-46d6-9c0a-b2a51d4592e5,warmed.courses,available,1.98,50.98,high,low,6,namecheap,,,13/09/2026 08:22
 b29c909d-5194-4f29-9fb0-5fee492bb508,vowels.courses,available,2.19,38.99,medium,low,6,namesilo,,,20/09/2026 00:07
 86a14ee9-2556-4367-96a5-8d71397bcf7d,republic.courses,available,1.5,32.32,high,low,8,dynadot,,,27/09/2026 15:32
 4e314386-c3ca-4a5e-86e6-8dfb4ee5e35c,monotone.courses,available,1.98,50.98,high,low,8,namecheap,,,25/08/2026 05:25
 f840e1f1-59e1-457a-b818-5abd29d04863,postiche.courses,available,1.98,50.98,medium,low,8,namecheap,,,17/08/2026 21:22
 0914d953-9e48-4605-83ad-6077c9e1a61a,gallantly.courses,available,1.98,50.98,medium,low,9,namecheap,,,14/09/2026 06:45
+7c47ceb3-db7f-46d3-b4bd-6b6d41b5826c,plagued.courses,available,2.19,38.99,medium,low,7,namesilo,,,29/09/2026 03:23
 7488150b-0634-4796-bfcd-7d0247860cf2,earliest.courses,available,2.19,38.99,medium,low,8,namesilo,,,24/09/2026 12:55
 7cf44bfd-c951-48b5-8afd-5ab7960c7145,bangor.courses,available,2.19,38.99,high,low,6,namesilo,,,22/09/2026 01:58
 e5950d9e-5f36-414f-a764-580ca5804929,puppet.courses,available,1.24,31.28,high,low,6,spaceship,,,28/09/2026 02:20
@@ -229,14 +250,14 @@ c14bcf18-d6bd-4878-9f8a-dfb0456260c4,balsamic.courses,available,2.19,38.99,high,
 54640f6a-494f-4af0-ae14-babf6fd197dc,ignored.courses,available,1.98,50.98,medium,low,7,namecheap,,,21/08/2026 18:34
 cda75697-c899-4a32-ab02-b3a568a78cdc,stormbound.courses,available,1.98,50.98,low,low,10,namecheap,,,10/09/2026 21:22
 94b119d0-0cac-4943-895b-c9e66a68070d,refuge.courses,available,1.98,50.98,high,low,6,namecheap,,,20/09/2026 18:32
-ff44d013-c5b8-472c-ad38-44fa6d7f5f62,andrew.courses,available,49.99,,high,medium,6,name.com,,,
+ff44d013-c5b8-472c-ad38-44fa6d7f5f62,andrew.courses,available,1.24,31.28,high,medium,6,spaceship,,,28/09/2026 21:21
 bfcecc5c-f474-4a6c-b20e-40cd1363384a,chin.courses,available,2.19,38.99,high,low,4,namesilo,,,
 faada464-a567-4bd3-b67d-cff65482cd3c,resolve.courses,available,1.99,59.99,high,low,7,godaddy,,,28/09/2026 01:54
 cbfc3a5f-9af1-43d8-8429-732ef48a95e9,your.courses,available,,,high,medium,4,,,,
 ef867f09-9bbc-411b-86da-904fa0de204e,everything.courses,available,49.99,,high,medium,10,name.com,,,
 5c92f80a-16c7-4da4-9c80-bcfb7d5ca66d,afoot.courses,available,1.98,50.98,medium,low,5,namecheap,,,
 57fc2d6b-3158-477b-983d-593de171c5fa,weeping.courses,available,1.98,50.98,high,low,7,namecheap,,,12/08/2026 00:52
-537ebde9-9d53-4aea-a000-5bb8dbc3c793,affluence.courses,available,2.19,38.99,high,low,9,namesilo,,,
+537ebde9-9d53-4aea-a000-5bb8dbc3c793,affluence.courses,available,1.24,31.28,high,low,9,spaceship,,,28/09/2026 19:21
 55aaa7f8-b0a5-4070-9fbe-39e62fe8dee0,sills.courses,available,2.19,38.99,high,low,5,namesilo,,,23/09/2026 06:04
 38fe23ac-98fb-41ea-a1ed-e2eea9d79e2c,eyepiece.courses,available,1.98,50.98,medium,low,8,namecheap,,,04/09/2026 00:46
 ebe3cad9-2067-4e31-a03d-14f18c2aeab5,influenced.courses,available,2.19,38.99,high,low,10,namesilo,,,
@@ -245,9 +266,11 @@ a1cd81e1-6906-4b1c-beab-221ec15092c2,shagged.courses,available,1.98,50.98,medium
 62d36a67-bfc3-4d23-9bec-3897ee255319,certain.courses,available,1.98,50.98,high,low,7,namecheap,,,27/09/2026 19:05
 06eb8b28-e21e-4bb8-a323-524abf172a23,palaver.courses,available,2.19,38.99,medium,low,7,namesilo,,,23/09/2026 23:26
 b1e24322-0c5f-42e4-8f55-92cc74267718,nodding.courses,available,1.98,50.98,high,low,7,namecheap,,,12/08/2026 00:48
+77508265-9a69-4a79-85e3-d6759c250082,investigated.courses,available,2.19,38.99,medium,low,12,namesilo,,,29/09/2026 00:03
 46b1bd5d-e620-4822-8e8d-a11063807389,peggy.courses,available,2.19,38.99,high,low,5,namesilo,,,25/09/2026 13:02
+58d0559f-6583-424b-a780-d97cfeb89539,evanston.courses,available,1.98,50.98,medium,low,8,namecheap,,,28/09/2026 08:11
 829da368-e66b-42c4-a7f0-cc7bb23f95af,cambodian.courses,premium,116,116,high,low,9,namesilo,,,11/08/2026 15:40
-afd83bdc-4d45-4de4-b6ad-253e751d734a,dong.courses,available,49.99,,high,low,4,name.com,,,
+afd83bdc-4d45-4de4-b6ad-253e751d734a,dong.courses,available,1.98,50.98,medium,low,4,namecheap,,,28/09/2026 14:32
 4271a363-be8c-49ef-9e2e-6e4f01b4db0a,yttrium.courses,available,1.98,50.98,medium,low,7,namecheap,,,20/09/2026 23:00
 64eb823a-a1c9-4dc6-8341-0fbff8fcb83a,goodish.courses,available,1.98,50.98,medium,low,7,namecheap,,,20/08/2026 16:34
 3e15fc76-379a-4c45-9204-c5b668d235e1,heretofore.courses,available,1.98,50.98,medium,low,10,namecheap,,,13/09/2026 21:50
@@ -259,15 +282,17 @@ bbffc200-5756-4299-a0fc-9806cf09a08d,eudaemonic.courses,available,1.98,50.98,med
 eb7bbe65-7fd1-4066-82f8-588d9e87cd9d,cashier.courses,premium,260,260,high,low,7,namecheap,,,22/09/2026 02:24
 e96dad5d-3331-40eb-a07f-2dc8c109a5e6,beauty.courses,premium,640,640,high,low,6,namesilo,,,27/09/2026 02:15
 d3ade44f-db0b-4ee0-ab36-5a14eb41eb51,testicle.courses,available,1.98,50.98,medium,low,8,namecheap,,,21/09/2026 22:59
+f523186d-aed6-4bbc-82f2-ffe548cb3030,cfr.courses,premium,546.35,546.35,medium,low,3,porkbun,,,28/09/2026 11:55
 38a3491e-9ea2-4b79-80b2-f6af9f8f5199,picker.courses,available,1.98,50.98,medium,low,6,namecheap,,,24/09/2026 14:45
 4cd60b04-1889-461c-b943-a81c709ae096,oversewn.courses,available,1.98,50.98,medium,low,8,namecheap,,,04/09/2026 21:48
 2849ef26-55f7-45e6-b0a6-a64c2ffda1b4,semitropic.courses,available,1.98,50.98,medium,low,10,namecheap,,,10/09/2026 03:36
-6f279827-6d1b-44a8-b3a0-9bb4423fd7db,typically.courses,available,2.19,38.99,medium,low,9,namesilo,,,
+6f279827-6d1b-44a8-b3a0-9bb4423fd7db,typically.courses,available,1.24,31.28,medium,low,9,spaceship,,,28/09/2026 17:10
 485a92e5-115f-4a47-bb56-033cae9e282a,faintly.courses,available,1.98,50.98,medium,low,7,namecheap,,,14/09/2026 17:33
 dfb393eb-ea95-4956-8086-06afd8adf8c2,premise.courses,available,2.19,38.99,high,low,7,namesilo,,,20/09/2026 16:37
 232374b8-e18f-4386-91b2-cf1be6ed34de,zoological.courses,premium,640,640,high,low,10,namesilo,,,13/09/2026 15:33
 7bc5ba42-e082-4778-8b24-a20dcb08bda1,allie.courses,available,1.99,49.99,high,low,5,name.com,,,17/09/2026 22:42
 28fb8fbe-65db-498b-90ab-0178a4b3f87d,obtrusive.courses,available,1.98,50.98,medium,low,9,namecheap,,,04/09/2026 00:07
+926bd6a5-2688-474b-96d6-226a90cdee6e,paget.courses,available,1.54,31.41,medium,low,5,porkbun,,,29/09/2026 01:47
 06ce90b3-28d4-495f-9236-ccb7871803a9,laxative.courses,available,1.98,50.98,high,low,8,namecheap,,,22/08/2026 21:25
 8a2b94ce-ffc9-4592-8809-993e66b50d81,skilful.courses,available,2.19,38.99,high,low,7,namesilo,,,21/09/2026 17:29
 88277017-f5bc-4009-ac6f-2e28a2408c7e,roundly.courses,available,1.98,50.98,medium,low,7,namecheap,,,14/09/2026 00:45
@@ -283,7 +308,8 @@ c012ed37-6fd4-4678-abe9-e9cf9b684f95,exhaustive.courses,available,1.98,50.98,hig
 4d841366-0ba0-4df5-ad64-612c719ee110,evidenced.courses,available,1.98,50.98,high,low,9,namecheap,,,17/08/2026 15:00
 2f37aaa5-d096-47a3-b471-aefe0d054291,hats.courses,available,2.19,38.99,high,low,4,namesilo,,,18/09/2026 07:32
 351283b0-9a44-498d-b3ae-6efcb20b7c8e,provisory.courses,available,1.98,50.98,medium,low,9,namecheap,,,09/09/2026 04:36
-70783a61-b9e6-404f-974a-ccd692f4d82b,attachment.courses,available,2.19,38.99,high,low,10,namesilo,,,
+79432c3d-b268-499e-a5a1-60dc3330c3fe,feared.courses,available,1.98,50.98,medium,low,6,namecheap,,,28/09/2026 11:28
+70783a61-b9e6-404f-974a-ccd692f4d82b,attachment.courses,available,1.24,31.28,high,low,10,spaceship,,,28/09/2026 18:30
 3a39b5a5-ba78-4d0a-b041-2b3d91a5555e,thrasher.courses,available,2.19,38.99,medium,low,8,namesilo,,,18/09/2026 13:24
 fecf6d0d-db26-4951-82ce-be656e124095,wholemeal.courses,available,1.98,50.98,medium,low,9,namecheap,,,13/09/2026 11:17
 52a76269-2894-4eba-a24f-c94280ba4e02,policies.courses,available,1.98,50.98,medium,low,8,namecheap,,,04/09/2026 07:55
@@ -302,6 +328,7 @@ dcea127a-f4b7-465e-9716-e20e5efd2be7,writers.courses,premium,1107,1107,medium,lo
 6b3f6910-34aa-422c-94c2-bc4024d99502,dearly.courses,available,1.99,49.99,high,low,6,name.com,,,13/08/2026 20:00
 d971be56-59ca-4715-baac-beaf2bc77b8c,unabated.courses,available,1.98,50.98,medium,low,8,namecheap,,,11/09/2026 23:24
 53173ed0-fc89-4134-85c9-46d39f59ebf3,doings.courses,available,2.19,38.99,high,low,6,namesilo,,,23/09/2026 03:17
+7af4fd7c-e163-4872-94ce-8a6f5b8bc76d,printer.courses,premium,242,242,high,low,7,namesilo,,,28/09/2026 15:08
 82a027f1-d37a-44f4-acdc-9f4692ac0114,greenwing.courses,available,2.19,38.99,medium,low,9,namesilo,,,19/09/2026 02:56
 fb1c89c9-28c8-4545-bd37-a0482c61c76d,tooth.courses,available,1.98,50.98,high,low,5,namecheap,,,19/09/2026 18:20
 21f36d45-75e2-4c15-97c8-94e2c27ba101,submarine.courses,available,1.98,50.98,high,low,9,namecheap,,,11/09/2026 00:16
@@ -317,6 +344,7 @@ c5455a98-0c41-4697-b199-7ef7e693899f,forsake.courses,available,1.98,50.98,medium
 97f63281-8694-483d-8c69-11fd71addbbd,affixal.courses,available,1.98,50.98,medium,low,7,namecheap,,,
 61bf96ff-696e-4768-85e0-7d73752377f8,desirable.courses,available,1.98,50.98,high,low,9,namecheap,,,14/08/2026 03:47
 2b94f645-e7de-4aab-96b7-8c021f765f3d,awkwardly.courses,available,1.98,50.98,medium,low,9,namecheap,,,13/09/2026 22:55
+22047a96-1020-4e1b-9a2c-8dd80305509b,mustafa.courses,available,1.24,31.28,high,low,7,spaceship,,,28/09/2026 11:56
 2419c87a-9cd8-46a0-8809-64c91fecc619,held.courses,available,1.98,50.98,high,low,4,namecheap,,,21/08/2026 06:19
 43ae35d3-c347-4ed8-8cd2-165f30287844,tubular.courses,available,1.98,50.98,medium,low,7,namecheap,,,11/08/2026 17:14
 40ed6a4e-c9e9-4b72-8596-70aaa2868bbc,leakproof.courses,available,1.98,50.98,medium,low,9,namecheap,,,22/08/2026 21:59
@@ -325,14 +353,17 @@ e00d78ca-4465-4d2c-a380-0fcb77d35d74,poet.courses,available,2.19,38.99,high,low,
 db984226-d959-4039-b954-b4cafbebc311,grooved.courses,available,1.98,50.98,medium,low,7,namecheap,,,20/08/2026 20:17
 0ac512ff-37ff-468f-9613-86a2da027199,heathen.courses,available,1.98,50.98,high,low,7,namecheap,,,18/08/2026 21:55
 a7dd3dc2-35fa-4a27-a98c-14bd7d7a25e1,anechoic.courses,available,1.98,50.98,medium,low,8,namecheap,,,
-dd0f6988-7e0f-4a97-b6e9-7ab8c4ceef9c,facility.courses,available,2.19,38.99,high,low,8,namesilo,,,
+5f1d4906-b43a-4769-8449-7d239a35e2be,barracks.courses,available,1.54,31.41,medium,low,8,porkbun,,,28/09/2026 13:08
+dd0f6988-7e0f-4a97-b6e9-7ab8c4ceef9c,facility.courses,available,1.24,31.28,high,low,8,spaceship,,,28/09/2026 18:28
 4865c720-9689-4800-9ced-22433ce40724,rudiments.courses,available,2.19,38.99,medium,low,9,namesilo,,,22/09/2026 10:41
 ff24e847-32fa-411b-a631-38687ac0fb34,sarawakian.courses,available,1.98,50.98,high,medium,10,namecheap,,,09/09/2026 21:26
 58cf44dc-6bae-4592-996e-e1f0e26f9d9f,benet.courses,available,2.19,38.99,high,low,5,namesilo,,,23/09/2026 07:58
 865b1fa1-53d9-48ab-b2da-d00a71f9394a,monochrome.courses,available,1.98,50.98,high,low,10,namecheap,,,25/08/2026 04:59
+98ff7499-65db-4362-87a5-acf4246773ce,missouri.courses,premium,242,242,high,low,8,namesilo,,,28/09/2026 10:24
 1db50df0-0f5f-425f-a321-44a5f2ff9604,asheville.courses,available,2.19,38.99,high,low,9,namesilo,,,20/09/2026 13:49
 b5f367bc-1278-436a-a589-b2b5dd873e25,lunar.courses,available,2.19,38.99,high,medium,5,namesilo,,,25/09/2026 15:39
 5e0b187c-cfe7-41eb-83d9-e928f3c05c04,bilge.courses,available,1.99,49.99,medium,low,5,name.com,,,23/09/2026 15:50
+f9ba13d1-257a-4c12-b483-9b27b6d1d9e5,carrot.courses,available,1.5,32.32,high,low,6,dynadot,,,29/09/2026 00:20
 591798b5-4b1f-4016-a2e3-22ee476dfa3c,pleural.courses,available,1.98,50.98,medium,low,7,namecheap,,,08/09/2026 21:15
 f495c382-e934-4d84-9dd0-2253c25829e6,edirne.courses,available,2.19,38.99,medium,low,6,namesilo,,,17/09/2026 10:01
 b153a1b4-7ac6-46a6-b577-a6d8ac3db83f,chairmen.courses,available,2.19,38.99,medium,low,8,namesilo,,,18/09/2026 22:56
@@ -340,14 +371,16 @@ d2d72e00-7391-4f5e-93f9-34ddb8219259,gripe.courses,available,2.19,38.99,high,low
 f9f71ab4-00da-4fbe-956a-f6f44f57ed46,tricks.courses,available,1.98,50.98,medium,low,6,namecheap,,,25/09/2026 17:54
 db7e4374-7023-4298-9245-d3e4679092c2,ottar.courses,available,1.98,50.98,medium,low,5,namecheap,,,20/09/2026 19:29
 91a82e1d-0df8-4552-a960-76ad12bfc4d8,flustered.courses,available,1.98,50.98,medium,low,9,namecheap,,,18/08/2026 09:29
-c3c19cad-99c6-4135-beb2-8229e760f115,aids.courses,available,2.19,38.99,high,low,4,namesilo,,,
+c3c19cad-99c6-4135-beb2-8229e760f115,aids.courses,available,1.5,32.32,medium,low,4,dynadot,,,28/09/2026 17:52
 5eb1acac-d41f-4811-a248-13a52b0b35d3,sidesaddle.courses,available,1.98,50.98,medium,low,10,namecheap,,,16/09/2026 01:43
 34d927f0-13e3-4b10-ad76-ba513fb2318c,distribute.courses,available,1.24,31.28,high,low,10,spaceship,,,28/09/2026 00:20
+fbbc3d8b-7646-4830-9418-f62373799923,conservatory.courses,available,2.19,38.99,high,low,12,namesilo,,,29/09/2026 03:18
 46872321-ae5c-4a8d-8dac-bd7b44f6e8c2,eyeless.courses,available,1.98,50.98,medium,low,7,namecheap,,,17/08/2026 20:02
 99792d30-7a10-442a-aefd-e08da929c7da,bushwhack.courses,available,2.19,38.99,medium,low,9,namesilo,,,18/09/2026 17:32
 6b177cc3-ce93-4562-a7be-acda12f674f7,adenovirus.courses,available,2.19,38.99,medium,low,10,namesilo,,,17/09/2026 07:41
 093c974d-95d0-4e52-b946-3bb6a98f2fce,snuggled.courses,available,1.98,50.98,medium,low,8,namecheap,,,03/09/2026 15:48
 a0f06cde-f6ef-4bc4-8420-07984bf2bb65,airs.courses,available,2.19,38.99,high,low,4,namesilo,,,17/09/2026 23:21
+bbc9e0aa-0d1e-4b40-936b-bd4d44d1412f,traces.courses,available,2.19,38.99,medium,low,6,namesilo,,,28/09/2026 08:47
 6c5ff692-e428-4577-a289-61630880a976,staying.courses,available,1.98,50.98,high,low,7,namecheap,,,25/09/2026 12:05
 61d707f1-c767-46ff-8a16-8da1f92df84d,uuh.courses,premium,640,640,medium,low,3,namesilo,,,20/09/2026 22:22
 3e0aaed2-962b-48d2-937f-8945cea517a3,onshore.courses,available,1.98,50.98,high,low,7,namecheap,,,22/08/2026 06:55
@@ -371,8 +404,12 @@ b3308429-220b-4e55-819e-a031b287d914,moderation.courses,available,2.19,38.99,hig
 0ba6e612-dfea-4547-b33c-ee5d0f1d7abc,hunger.courses,available,2.19,38.99,high,low,6,namesilo,,,
 75ec5211-bf89-45e4-bd7a-85134e96caa6,crap.courses,available,2.19,38.99,medium,low,4,namesilo,,,
 508b804f-5b01-46eb-b002-550f41e9b0d7,chop.courses,available,2.19,38.99,medium,low,4,namesilo,,,
+0e8bad06-5647-4587-b63f-5f56450a1224,fragment.courses,premium,103.7,103.7,high,low,8,spaceship,,,28/09/2026 19:15
+013c1878-1eb6-49ce-bfc1-06cdcc5ec944,ine.courses,premium,517.7,517.7,medium,low,3,spaceship,,,28/09/2026 08:13
+72a41526-6818-4bf3-8814-b551d1195355,vanessa.courses,available,1.24,31.28,high,low,7,spaceship,,,28/09/2026 09:53
 8f0acad7-7e5e-463e-9a1c-0d064a3902c9,lawrence.courses,available,1.98,50.98,high,low,8,namecheap,,,25/09/2026 04:32
 abf951c7-0bb6-40ee-8cd1-9ebbb1410e56,berberis.courses,available,2.19,38.99,high,low,8,namesilo,,,23/09/2026 09:08
+1e8143fb-ae23-4ffe-8436-9a5891dc1f01,natchez.courses,available,2.19,38.99,medium,low,7,namesilo,,,28/09/2026 14:57
 b4584f26-3674-4f42-95b2-c467e5cd82a8,maddening.courses,available,1.98,50.98,medium,low,9,namecheap,,,17/08/2026 15:55
 96152f3a-6fad-4286-ada4-8a1ad800ba31,noticed.courses,available,1.98,50.98,high,low,7,namecheap,,,25/09/2026 23:16
 906a078f-1652-44ca-a291-175af43d1ea7,disrepute.courses,available,2.19,38.99,medium,low,9,namesilo,,,24/09/2026 22:34
@@ -386,9 +423,10 @@ e713b302-d681-43eb-aee8-229e186f0ef9,kyle.courses,available,2.19,38.99,high,low,
 03046cd7-ff8f-4731-8da4-db89e1930aad,fist.courses,premium,116,116,high,low,4,namesilo,,,
 37fcfc7e-0ceb-4e4e-9a8d-98b7806e4f2c,blueberries.courses,available,2.19,38.99,high,low,11,namesilo,,,17/09/2026 17:28
 dabc52e2-82de-4126-9054-62d49152c9d2,dating.courses,premium,1250,,high,low,6,name.com,,,
-2282f1be-a061-43f2-99fa-798121b7da51,toxic.courses,available,2.19,38.99,high,low,5,namesilo,,,
+2282f1be-a061-43f2-99fa-798121b7da51,toxic.courses,available,1.24,31.28,medium,low,5,spaceship,,,28/09/2026 09:26
 969d6220-b58b-4f5d-802c-4d14a62af1c0,untaped.courses,available,1.98,50.98,medium,low,7,namecheap,,,12/09/2026 10:16
 dfbdcab8-9d09-4f22-88be-7594e46134fe,scarecrow.courses,available,2.19,38.99,high,low,9,namesilo,,,23/09/2026 19:41
+800f62e4-f8cf-4c66-9913-cde353470073,attempting.courses,available,2.19,38.99,medium,low,10,namesilo,,,28/09/2026 12:29
 31557543-415b-4759-ada3-dfe1b7b95e54,ike.courses,premium,625,,high,low,3,name.com,,,
 0a30cbf4-dec9-4e2a-84c7-ba5a983a8fa7,stifled.courses,available,1.98,50.98,high,medium,7,namecheap,,,10/09/2026 12:12
 927c40d1-874a-40c7-a57f-f414b8890598,fop.courses,premium,625,625,medium,low,3,name.com,,,13/08/2026 17:09
@@ -398,6 +436,7 @@ d619a77c-2c62-4518-8b6c-b7ee9d32561a,maximising.courses,available,1.98,50.98,med
 0ce7108e-3e08-48c1-80db-423d2af5551c,tape.courses,available,2.19,38.99,high,low,4,namesilo,,,
 b83e0ffc-be09-4365-92d8-ff7760e7aa45,adler.courses,available,2.19,38.99,high,low,5,namesilo,,,25/09/2026 13:44
 ab291489-30ed-45fd-aa1f-bf7847065a84,incredibly.courses,available,1.98,50.98,high,low,10,namecheap,,,14/09/2026 17:21
+81049ac0-bcd0-49b0-ad86-66db676d8c62,kelsey.courses,available,1.24,31.28,medium,low,6,spaceship,,,28/09/2026 18:22
 c334a332-8a49-4c32-b1a9-e4806a6e8b05,ricky.courses,available,1.98,50.98,high,low,5,namecheap,,,27/09/2026 19:08
 4f58bf9b-d391-499a-b42d-a71cedaebc9e,undaunted.courses,available,1.98,50.98,high,low,9,namecheap,,,12/09/2026 07:00
 2147a511-ec13-450c-bbdf-7adea1f8ad55,mills.courses,available,49.99,,high,low,5,name.com,,,
@@ -411,8 +450,9 @@ bd137dec-86a3-43b0-8496-de18cf1eb774,obvious.courses,available,2.19,38.99,high,l
 8d1339cc-1dfb-402f-9c75-16689909d7da,potency.courses,available,1.98,50.98,high,medium,7,namecheap,,,09/09/2026 00:49
 12770acc-6fcd-4819-9413-e35fe6f1ee0a,germans.courses,available,2.19,38.99,medium,low,7,namesilo,,,27/09/2026 03:03
 9a8f5927-0284-4899-bc26-f922194db6d2,lobar.courses,available,1.98,50.98,medium,low,5,namecheap,,,24/08/2026 08:33
+d1033364-b005-469f-aede-cc896488446d,newberry.courses,available,1.24,31.28,medium,low,8,spaceship,,,28/09/2026 21:39
 2c8aa46f-cd2b-4800-8d24-0fa824da2644,expendable.courses,available,1.98,50.98,high,low,10,namecheap,,,17/08/2026 18:08
-e4db3a9d-ba7a-45d3-93fb-7a7f4923a4ab,manages.courses,available,1.98,50.98,medium,low,7,namecheap,,,25/09/2026 05:29
+e4db3a9d-ba7a-45d3-93fb-7a7f4923a4ab,manages.courses,available,1.24,31.28,medium,low,7,spaceship,,,28/09/2026 13:31
 497fd178-8190-414c-9e90-f1c195e23a97,raspy.courses,available,1.98,50.98,medium,low,5,namecheap,,,20/08/2026 18:31
 69431ec4-840f-4585-85b3-95e4e124be96,abruzzi.courses,available,2.19,38.99,medium,low,7,namesilo,,,16/09/2026 17:28
 27507d49-84f3-4b80-860e-bdc2ea1ea3a7,lipoma.courses,available,1.98,50.98,medium,low,6,namecheap,,,17/09/2026 08:18
@@ -439,6 +479,7 @@ b6e0f9a1-dc42-4df1-a7c9-927f53aeffd8,willamette.courses,available,1.24,31.28,med
 af73e74a-e826-4172-a753-5bb4c4dffe29,wants.courses,available,1.98,50.98,medium,low,5,namecheap,,,25/09/2026 17:58
 f6a2970b-8f78-48db-8bc3-22f779777113,underwear.courses,available,2.19,38.99,high,low,9,namesilo,,,
 6b4cb36c-e87a-4177-83c4-4a3194cd049f,yogurt.courses,available,2.19,38.99,high,low,6,namesilo,,,28/09/2026 02:43
+ef0b8780-b157-43d4-9797-00226d53c737,tumor.courses,available,2.19,38.99,medium,low,5,namesilo,,,28/09/2026 10:32
 d82c431c-46fd-4b61-a289-d34d529397c7,endow.courses,available,2.19,38.99,high,low,5,namesilo,,,24/09/2026 23:37
 5cab0e4f-05b3-44de-9e28-d6d1d21f9427,aerophagia.courses,available,2.19,38.99,medium,low,10,namesilo,,,17/09/2026 13:11
 612fe870-6329-4b33-a2f0-adc249b11efe,maintained.courses,available,2.19,38.99,high,low,10,namesilo,,,25/09/2026 12:29
@@ -460,6 +501,7 @@ a44b0b3e-280c-4d5d-8611-9573b93c5361,correlated.courses,available,1.98,50.98,hig
 038e8fa1-b0ce-403d-ae6c-df08968342f2,arctiid.courses,available,2.19,38.99,medium,low,7,namesilo,,,20/09/2026 02:47
 d7356017-b3dc-4105-acf8-26b4ed906ca8,keno.courses,available,2.19,38.99,high,low,4,namesilo,,,22/09/2026 20:42
 8b74b7fb-a8ed-4ea3-95d8-1ee59cba0fe7,twisting.courses,available,1.98,50.98,high,low,8,namecheap,,,11/09/2026 21:52
+2ce61724-ad8c-4953-9176-6bdc43321911,saints.courses,available,1.24,31.28,medium,low,6,spaceship,,,28/09/2026 16:34
 a5dc1805-331f-4f92-bb16-f0cb2d9fb48f,variation.courses,available,1.98,50.98,high,low,9,namecheap,,,03/09/2026 11:43
 fb4753e1-3db2-4111-aef6-e5c52c454c59,sexed.courses,available,1.98,50.98,medium,low,5,namecheap,,,10/09/2026 05:13
 1d4e237a-26e6-45a2-ad3c-0d4d51a07a58,stewardess.courses,available,1.98,50.98,high,low,10,namecheap,,,17/09/2026 22:26
@@ -470,7 +512,7 @@ ed4a2619-9734-4cdf-b61a-34da714bb989,clovers.courses,available,2.19,38.99,medium
 cf27a0b4-8e6d-4123-a54d-6cd2a1245a0b,aware.courses,available,1.98,50.98,high,low,5,namecheap,,,25/09/2026 20:16
 5e5ef3dc-f12e-486e-9546-ed8547dcd802,clocks.courses,available,1.98,50.98,high,low,6,namecheap,,,18/09/2026 06:14
 a6a514d4-e801-439c-bf63-3df1b8c38e9c,strengths.courses,available,2.19,38.99,high,low,9,namesilo,,,18/09/2026 22:25
-7a2f4dd3-0c96-455c-b7bd-1dab4f7b3a85,carefully.courses,available,2.19,38.99,high,low,9,namesilo,,,
+7a2f4dd3-0c96-455c-b7bd-1dab4f7b3a85,carefully.courses,available,1.24,31.28,medium,low,9,spaceship,,,28/09/2026 13:46
 67a5befe-ec36-4944-ae4f-3eb706cc80f3,recent.courses,available,1.99,49.99,high,low,6,name.com,,,27/09/2026 10:49
 c58ef72a-5ca2-42a8-bdd0-18881ed080e9,pardon.courses,available,2.19,38.99,high,low,6,namesilo,,,
 10f47214-9c66-4594-9d03-eb0729073570,sandy.courses,available,1.98,50.98,high,low,5,namecheap,,,06/08/2026 17:31
@@ -490,7 +532,7 @@ e15a2c5a-bc7a-4ac4-a4cd-c5737eea3ae4,ambivalence.courses,available,2.19,38.99,hi
 5e7dfd45-7a6f-4b43-b90f-6a4894a3a09e,students.courses,resell,,,high,low,8,"NameCheap, Inc.",18/06/2026 16:24,18/06/2027 16:24,26/09/2026 09:21
 fb365c48-cbbe-4353-a171-a3d010a5876b,logic.courses,premium,1107,1107,high,medium,5,namesilo,,,28/09/2026 04:37
 e69ada43-bd0b-4522-8854-1018ada36aed,hitting.courses,available,2.19,38.99,high,low,7,namesilo,,,25/09/2026 07:22
-82a11fff-22ff-43e8-abe9-cdd79a21210a,hour.courses,available,2.19,38.99,high,low,4,namesilo,,,
+82a11fff-22ff-43e8-abe9-cdd79a21210a,hour.courses,available,1.98,50.98,high,low,4,namecheap,,,28/09/2026 16:53
 84b28bf6-961d-403c-8151-7d6f0e1f212e,polynesian.courses,available,1.98,50.98,high,low,10,namecheap,,,24/08/2026 13:48
 8da41a3f-4f6a-473a-b79b-b584e85cd1a2,dedication.courses,available,1.98,50.98,high,low,10,namecheap,,,18/09/2026 10:32
 635878b6-e38d-4c37-ad26-61974e9a6740,coaches.courses,premium,650,650,high,low,7,namecheap,,,20/09/2026 07:46
@@ -520,6 +562,7 @@ b3b14e9a-124a-4536-a1c3-f1f7b5927f88,bronzy.courses,available,1.98,50.98,medium,
 41ee7e56-281e-4669-8787-4a0c302a4d7d,roadless.courses,available,1.98,50.98,medium,low,8,namecheap,,,08/09/2026 10:27
 f65de90c-73d8-4cd9-a5c2-027c99647ba1,corked.courses,available,1.98,50.98,medium,low,6,namecheap,,,13/08/2026 01:20
 111e4f2f-81d6-4239-9897-2066a208174c,asama.courses,available,2.19,38.99,medium,low,5,namesilo,,,20/09/2026 12:47
+6719d285-bdaa-41fe-98cd-811593a8dab3,viewers.courses,available,1.98,50.98,medium,low,7,namecheap,,,28/09/2026 20:41
 f2167598-05e0-422f-bd5b-9385549a283c,crummy.courses,available,1.98,50.98,medium,low,6,namecheap,,,11/08/2026 09:02
 9bc57412-8593-4f23-bb47-0d8001d9c508,disputed.courses,available,1.98,50.98,medium,low,8,namecheap,,,14/08/2026 12:12
 91a10681-d337-48bf-9b22-2535dcced421,deposition.courses,available,2.19,38.99,medium,low,10,namesilo,,,24/09/2026 22:00
@@ -536,27 +579,30 @@ f0a188f9-391d-44d9-9f09-5a5ba84fc252,attacks.courses,available,2.19,38.99,medium
 43eb8908-6d2e-4208-a4c7-9565b53bd0b5,hodges.courses,available,1.98,50.98,medium,low,6,namecheap,,,25/09/2026 19:37
 fffdf5f2-81c4-455b-8f7a-49dd779fa3bd,infallible.courses,available,1.98,50.98,high,low,10,namecheap,,,22/08/2026 04:05
 bc4249da-da54-483d-ac23-9acd063a7d28,baseness.courses,available,2.19,38.99,medium,low,8,namesilo,,,22/09/2026 10:25
-754978eb-59a2-4bdd-8675-dc23dde03e8b,paul.courses,available,2.19,38.99,high,medium,4,namesilo,,,
+754978eb-59a2-4bdd-8675-dc23dde03e8b,paul.courses,available,1.98,50.98,high,medium,4,namecheap,,,28/09/2026 20:25
 b28bb819-291d-441c-bfa1-9da1c258cdd3,tasting.courses,available,2.19,38.99,high,low,7,namesilo,,,
 518388dc-d149-41bb-9ad9-e27fb95970f0,rubber.courses,available,2.19,38.99,high,low,6,namesilo,,,27/09/2026 16:38
 019d7f65-4035-4e30-b390-1584cd7d9b34,prove.courses,available,2.19,38.99,high,low,5,namesilo,,,
 b6fbf385-45fc-43a2-b1e8-146f2b4974c7,sedated.courses,available,1.98,50.98,low,low,7,namecheap,,,16/09/2026 18:04
 66a1220f-44d5-477e-80d9-3665f057d4d8,ceric.courses,available,1.98,50.98,medium,low,5,namecheap,,,12/08/2026 00:39
 f051e187-7d48-4920-92ff-61a68e791c34,windmills.courses,available,2.19,38.99,medium,low,9,namesilo,,,20/09/2026 13:55
+1156c3bb-1701-4644-a0d8-5e75da87fab9,yamamoto.courses,available,1.24,31.28,medium,low,8,spaceship,,,28/09/2026 19:31
 5e1be66d-2803-4886-afeb-09450646f6ed,elephant.courses,available,2.19,38.99,high,low,8,namesilo,,,25/09/2026 22:36
 5bfd49a6-fe4d-474a-889f-51d7afcfa901,feetfirst.courses,available,1.98,50.98,medium,low,9,namecheap,,,14/09/2026 18:20
 3c88df5b-b415-4515-9b20-e99373c636a1,garrett.courses,available,2.19,38.99,high,low,7,namesilo,,,25/09/2026 14:29
 5b157c4f-b224-44ad-81ed-a87996fef5d2,homophile.courses,available,1.98,50.98,high,low,9,namecheap,,,18/08/2026 20:56
 e84bca23-c7b8-4430-8fcc-1457bd9a4e06,evident.courses,available,1.98,50.98,high,low,7,namecheap,,,06/08/2026 05:13
 dba29792-8124-4445-817a-52f287933c72,tobago.courses,available,2.19,38.99,high,low,6,namesilo,,,27/09/2026 05:45
-be04fd7f-7730-4a86-a00e-a10580793aa0,wealth.courses,premium,116,116,high,low,6,namesilo,,,25/09/2026 04:29
+f3f40ec7-a54b-4ad0-9d43-31a81adcdddb,complications.courses,available,1.24,31.28,low,low,13,spaceship,,,28/09/2026 13:25
+be04fd7f-7730-4a86-a00e-a10580793aa0,wealth.courses,premium,103.7,103.7,high,low,6,spaceship,,,28/09/2026 12:30
 bc845c19-663e-4ece-aa78-434154f70c01,agitated.courses,available,1.98,50.98,medium,low,8,namecheap,,,
 6fbae021-32df-446a-aafb-5ec406739cd4,tanning.courses,available,1.98,50.98,high,low,7,namecheap,,,22/08/2026 20:14
 7ad6554b-9a22-4f7e-9fff-6ce910d976ca,levantine.courses,available,1.98,50.98,medium,low,9,namecheap,,,23/08/2026 00:31
-8fcbbf23-52f8-40d5-a83c-35c365d83e50,holds.courses,available,2.19,38.99,medium,low,5,namesilo,,,24/09/2026 20:42
+8fcbbf23-52f8-40d5-a83c-35c365d83e50,holds.courses,available,2.19,38.99,medium,low,5,namesilo,,,28/09/2026 23:34
 c811aaec-dcd7-41d4-afc2-f7572ec8fd67,suggestive.courses,available,1.98,50.98,medium,low,10,namecheap,,,21/08/2026 22:34
 02615d53-d6c6-4394-8c96-62fcd2252237,weight.courses,available,1.98,50.98,high,low,6,namecheap,,,19/09/2026 19:07
 254cd482-b289-43a0-8330-c12d034a9341,cowardly.courses,available,1.98,50.98,medium,low,8,namecheap,,,13/08/2026 04:07
+73593f08-7707-4adb-ab4e-a17d35a4b034,felony.courses,available,1.98,50.98,medium,low,6,namecheap,,,28/09/2026 09:45
 6f913ddc-7904-4836-80a0-43773afd709d,peeved.courses,available,1.98,50.98,medium,low,6,namecheap,,,
 89c3dae0-2da9-4128-9ac7-456019a7e7b8,upstart.courses,available,2.19,38.99,high,low,7,namesilo,,,25/09/2026 23:17
 208663bf-e362-4946-ac95-bc24c260eee9,battlement.courses,available,2.19,38.99,medium,low,10,namesilo,,,22/09/2026 16:28
@@ -568,11 +614,14 @@ d45f85c3-4274-4297-830a-002140fbb022,knockout.courses,available,1.98,50.98,high,
 b43a98f5-6e59-414d-b38c-56d703de38d0,choc.courses,available,2.19,38.99,high,low,4,namesilo,,,
 8ceba9bb-b325-443f-89e2-5a74d10e9aed,wassermann.courses,available,1.98,50.98,high,low,10,namecheap,,,21/09/2026 03:49
 69d847bf-aabc-43b7-a40b-0478bed10c03,manned.courses,available,1.98,50.98,high,low,6,namecheap,,,24/08/2026 15:16
+7d01beab-e6f4-405a-8bec-53acd55ff474,singers.courses,available,2.19,38.99,medium,low,7,namesilo,,,28/09/2026 23:28
 52afc5d3-50ef-4dc6-b43f-27f295884420,slept.courses,available,2.19,38.99,medium,low,5,namesilo,,,
 e9de780e-2474-4a7d-8449-2de77c26b689,tight.courses,premium,116,116,medium,low,5,namesilo,,,09/08/2026 17:09
 9214a891-3672-4ebf-a8fa-60d641eccd51,glibly.courses,available,1.98,50.98,medium,low,6,namecheap,,,14/09/2026 21:34
 3431e8e6-ffd4-45b9-8bbe-f9a7cc3f49cd,resolution.courses,available,2.19,38.99,high,low,10,namesilo,,,
 34df75ca-2b06-4470-9f4e-b2f37934e02b,crone.courses,available,2.19,38.99,medium,low,5,namesilo,,,23/09/2026 04:47
+c6e839f5-7ab3-4ec1-96cf-659f18fbe16d,tutor.courses,premium,207.2,207.2,high,low,5,spaceship,,,28/09/2026 10:46
+f1b00b12-6ac2-4069-a3ba-d5a9ca2c7b03,rowley.courses,available,1.24,31.28,medium,low,6,spaceship,,,28/09/2026 12:08
 53b927e3-8596-40d5-9cd5-6afb0c7fcc85,promotes.courses,available,2.19,38.99,medium,low,8,namesilo,,,16/09/2026 11:54
 29fedf18-1ca0-469b-b469-37be3c3601af,unformed.courses,available,1.98,50.98,medium,low,8,namecheap,,,12/09/2026 10:39
 218e5761-4b81-45d8-a891-fb17b2030c14,wingless.courses,available,1.98,50.98,medium,low,8,namecheap,,,13/09/2026 12:31
@@ -581,7 +630,7 @@ dc8d8f88-87ff-4775-9874-25bb90e0b1f4,thurston.courses,available,2.19,38.99,mediu
 8ed13faf-d701-49f1-8bd0-a12fc1658d8d,stitched.courses,available,1.98,50.98,medium,low,8,namecheap,,,10/09/2026 05:09
 12539f36-6565-4205-9480-92b3f0b83489,accession.courses,available,2.19,38.99,high,low,9,namesilo,,,16/09/2026 22:09
 b8de96b8-d05c-4d9c-a5e5-a672dd1829db,roughhewn.courses,available,1.98,50.98,high,medium,9,namecheap,,,09/09/2026 19:00
-f4ddb3fc-85f3-499a-98ba-766ee1ee4ee0,saw.courses,premium,625,,high,low,3,name.com,,,
+f4ddb3fc-85f3-499a-98ba-766ee1ee4ee0,saw.courses,premium,550,550,high,low,3,dynadot,,,28/09/2026 18:13
 40ec1dd3-9a35-4c0d-8576-3b224f2a11e4,heartfelt.courses,available,1.98,50.98,high,low,9,namecheap,,,21/08/2026 02:11
 f301d9be-ab48-40a1-a1b5-1bc761934eb8,planetarium.courses,available,2.19,38.99,high,low,11,namesilo,,,
 e63d72ae-8076-40f6-bb15-6d7e1ee9022c,catarrhal.courses,available,1.98,50.98,medium,low,9,namecheap,,,11/08/2026 21:09
@@ -637,6 +686,8 @@ ea1bd04c-e59c-420c-bec8-d791ecf357d8,taurus.courses,available,1.98,50.98,high,lo
 c5a2daaf-61fe-42ca-a7fc-1dcef62e33ba,accentuate.courses,available,2.19,38.99,high,low,10,namesilo,,,16/09/2026 21:56
 ae3743d6-075c-4817-afee-4a65015aa9fe,seventh.courses,available,1.98,50.98,high,low,7,namecheap,,,
 b195bb2d-410e-4730-95e8-6d8309159148,antecedent.courses,available,1.98,50.98,high,low,10,namecheap,,,
+2ed45f50-bf5b-453f-8a1c-76d96f7197c2,marriages.courses,available,1.24,31.28,medium,low,9,spaceship,,,28/09/2026 18:09
+c4d3f17a-381f-4b95-9bcf-a6f82518dad3,intercepted.courses,available,2.19,38.99,medium,low,11,namesilo,,,28/09/2026 23:49
 edd043e5-8b37-479f-89e2-d3de0fd338c0,tomas.courses,available,1.24,31.28,medium,low,5,spaceship,,,28/09/2026 04:37
 d66c9eec-1f97-4be0-9b42-4cf2f732f3b8,guerrero.courses,available,2.19,38.99,high,low,8,namesilo,,,28/09/2026 04:07
 c27b9dbf-f9bd-4c67-9b6c-26b624943a9f,anna.courses,available,2.19,38.99,high,medium,4,namesilo,,,19/09/2026 09:54
@@ -644,7 +695,7 @@ c27b9dbf-f9bd-4c67-9b6c-26b624943a9f,anna.courses,available,2.19,38.99,high,medi
 ae9ca993-b99f-43a7-8d62-09e993ca2071,elaine.courses,available,2.19,38.99,high,low,6,namesilo,,,25/09/2026 15:24
 c3d8e1d9-241f-46be-955f-88c72669e30a,inductive.courses,available,1.98,50.98,medium,low,9,namecheap,,,22/08/2026 03:29
 fc482b3d-f1f3-4ada-adbc-fe60d42f641d,kenneth.courses,available,1.98,50.98,high,low,7,namecheap,,,25/09/2026 19:13
-fa4eaaac-040e-43a7-971e-017d193b0a81,unfair.courses,available,2.19,38.99,high,low,6,namesilo,,,
+fa4eaaac-040e-43a7-971e-017d193b0a81,unfair.courses,available,1.98,50.98,medium,low,6,namecheap,,,28/09/2026 09:45
 2cd8522b-67fa-4a41-b2c8-1355cdde4779,badminton.courses,premium,242,242,high,low,9,namesilo,,,21/09/2026 17:13
 8ad26531-ede6-4bc1-a3b4-36186439904d,tricksy.courses,available,1.98,50.98,medium,low,7,namecheap,,,13/08/2026 04:36
 a6dac16f-309d-43c5-8c1b-05717818ae22,armature.courses,available,2.19,38.99,medium,low,8,namesilo,,,20/09/2026 06:32
@@ -652,26 +703,30 @@ a1b0e90d-f99c-45fa-b4c1-b5741d5a9f4b,timer.courses,available,49.99,,high,low,5,n
 0f9c2a0d-657b-48b8-b808-59cfd092cd8b,slender.courses,available,1.98,50.98,high,low,7,namecheap,,,24/08/2026 01:14
 61bc17c4-84aa-48f3-99f2-a2f749bc4037,volvo.courses,available,2.19,38.99,high,low,5,namesilo,,,
 8e8d546b-2c44-4713-bebc-775a8b1c25a5,cupric.courses,available,1.98,50.98,medium,low,6,namecheap,,,13/08/2026 10:49
+10cb47b5-2d5e-438b-8029-c7364619667e,louie.courses,available,1.24,31.28,high,low,5,spaceship,,,28/09/2026 11:43
 e0a5dad8-e8d6-45f0-8978-39db2ec2e394,pumpkin.courses,available,2.19,38.99,high,low,7,namesilo,,,21/09/2026 08:26
 da4df5d5-c098-4a21-a40b-7b9c14604905,test.courses,premium,650,650,high,high,4,namecheap,,,28/09/2026 06:25
+197fd5cb-f8bf-420c-b700-46b6b8d45ba6,buckle.courses,available,1.24,31.28,medium,low,6,spaceship,,,28/09/2026 18:30
 4b2c337d-8a72-4829-a078-eb6c403b9e93,pestering.courses,available,1.98,50.98,medium,low,9,namecheap,,,
 ff3cab07-4be0-48fb-9da7-bb541e4c0c8d,pipes.courses,available,1.24,31.28,high,low,5,spaceship,,,27/09/2026 22:20
 b89aa455-1c02-4da4-bc4f-f5d02ef06733,relationships.courses,premium,130,130,medium,low,13,namecheap,,,17/09/2026 20:15
 b9e830e2-c8aa-49cc-bf52-7c53bf6f1295,observed.courses,available,2.19,38.99,high,low,8,namesilo,,,22/09/2026 09:25
 936df0fa-2b51-4646-89b3-11b75052633e,laborious.courses,available,1.98,50.98,medium,low,9,namecheap,,,06/08/2026 17:00
 8f95a2dc-a613-4592-865e-3b52bb390c5b,moist.courses,available,1.99,49.99,high,low,5,name.com,,,13/08/2026 16:43
+5d6c52f7-238d-4b66-a0f8-cd34acea1010,fleeing.courses,available,2.19,38.99,medium,low,7,namesilo,,,29/09/2026 03:23
 1e876fb5-311d-4817-81cc-8520fb58dc02,baldwin.courses,available,2.19,38.99,high,low,7,namesilo,,,16/09/2026 12:19
 875b8c99-3629-4f1e-ba4b-278455906e85,feelingly.courses,available,1.98,50.98,medium,low,9,namecheap,,,14/09/2026 18:18
 fb0704b7-f4ab-42a9-b62b-99511239d098,rafts.courses,available,1.98,50.98,high,low,5,namecheap,,,14/09/2026 23:26
 dcae00e2-334f-4664-abd2-2336006c1866,egotistic.courses,available,1.98,50.98,medium,low,9,namecheap,,,12/08/2026 19:55
 34210d55-f1c2-46b7-a242-cb034b2f9184,tasmanian.courses,available,1.98,50.98,high,low,9,namecheap,,,11/09/2026 08:50
-1b5b214b-fa65-4f38-b783-41caf1d286ee,offspring.courses,available,2.19,38.99,high,low,9,namesilo,,,
+1b5b214b-fa65-4f38-b783-41caf1d286ee,offspring.courses,available,1.24,31.28,high,low,9,spaceship,,,28/09/2026 11:24
 578b50ec-2e31-475b-90cc-d05bfd009034,overnice.courses,available,1.98,50.98,medium,low,8,namecheap,,,04/09/2026 21:20
 f38d54ca-3db2-4188-a2f8-f542f825dc80,futureless.courses,available,1.98,50.98,low,low,10,namecheap,,,18/08/2026 19:15
 4cc9f2a3-a360-471e-a0cf-1151b5472523,jefferson.courses,available,2.19,38.99,high,low,9,namesilo,,,25/09/2026 23:16
 2cae68e0-4311-4d26-8050-5cd020616f80,hostesses.courses,available,2.19,38.99,medium,low,9,namesilo,,,20/09/2026 07:50
 6d5b0568-cb57-4450-a990-35d80370009c,aix.courses,premium,650,650,high,medium,3,namecheap,,,17/09/2026 23:30
-a9689611-7e90-4563-a81d-b0491b633bdd,nation.courses,available,2.19,38.99,high,low,6,namesilo,,,
+f5a2f9f1-8dd7-4bac-98fd-14a43fabb88b,valdez.courses,available,1.24,31.28,medium,low,6,spaceship,,,28/09/2026 20:43
+a9689611-7e90-4563-a81d-b0491b633bdd,nation.courses,available,2.19,38.99,high,low,6,namesilo,,,29/09/2026 03:15
 48167370-7d36-4bf4-bcb3-dbe850ae7439,anthurium.courses,available,1.98,50.98,medium,low,9,namecheap,,,19/09/2026 13:58
 3225f0e8-0a29-4e91-864b-d943789bad3f,dismount.courses,available,2.19,38.99,high,low,8,namesilo,,,24/09/2026 22:48
 91ad8280-9090-4fc5-8b67-cc120723964e,fis.courses,premium,650,650,high,low,3,namecheap,,,28/09/2026 03:41
@@ -688,6 +743,7 @@ cd688351-8665-4667-9dd1-e6a197759d4c,proper.courses,available,2.19,38.99,high,lo
 016c940b-be5c-4ba1-9daa-0b6b40b14e7e,panty.courses,available,1.98,50.98,high,low,5,namecheap,,,09/09/2026 22:42
 1f637209-4c8c-43e7-8bbf-56dfd67a874c,surviving.courses,available,1.98,50.98,high,low,9,namecheap,,,11/09/2026 04:49
 d0f228ce-4eee-47bf-883f-cb665f392bd2,cxv.courses,premium,625,625,high,low,3,name.com,,,
+018615b0-235c-4e03-9b81-f52d8b2b3ed1,emblems.courses,available,1.5,32.32,medium,low,7,dynadot,,,28/09/2026 18:24
 9883045c-8bc5-4309-85df-294a14c06d88,eritrean.courses,available,1.98,50.98,high,low,8,namecheap,,,17/08/2026 12:22
 a2609895-0691-4b38-9d90-837827f71f47,marvelous.courses,premium,116,116,high,low,9,namesilo,,,25/09/2026 00:13
 e0370b04-8f06-40a6-b0e5-98d95ab3862a,upsetting.courses,available,1.98,50.98,medium,low,9,namecheap,,,14/08/2026 09:55
@@ -712,7 +768,7 @@ e67daf50-075b-4075-af07-6f14c77a9e9d,cologne.courses,available,1.98,50.98,high,l
 14427619-47b7-48ce-b624-a458499a9ebd,exobiology.courses,available,2.19,38.99,medium,low,10,namesilo,,,20/09/2026 17:35
 315ba310-bd13-4f81-b645-3d67b7cf3136,gruff.courses,available,1.98,50.98,high,low,5,namecheap,,,13/08/2026 11:25
 ab772b40-1f01-40ee-883e-727099450216,banyan.courses,available,1.98,50.98,high,low,6,namecheap,,,22/09/2026 02:04
-0f4de04f-a7cd-4998-a891-9a48416b76cc,touch.courses,available,2.19,38.99,high,low,5,namesilo,,,
+0f4de04f-a7cd-4998-a891-9a48416b76cc,touch.courses,available,2.19,38.99,high,low,5,namesilo,,,28/09/2026 09:25
 0d0d1610-a6d8-4be2-bdca-585b77e76b1a,abscessed.courses,available,1.98,50.98,medium,low,9,namecheap,,,
 4057c2e2-f5b9-49f4-981e-5ca2819e4966,toupeed.courses,available,1.98,50.98,low,low,7,namecheap,,,11/09/2026 18:18
 03a66f00-2469-4ebc-8f2f-162182fcee34,ought.courses,available,2.19,38.99,high,low,5,namesilo,,,
@@ -725,6 +781,7 @@ c22b16f5-0592-4fa0-98ef-4e18fcb8610a,scattering.courses,available,2.19,38.99,hig
 0efc0885-e2d5-4f49-8655-483af30d58a4,triennial.courses,available,1.98,50.98,medium,low,9,namecheap,,,11/09/2026 19:31
 0800dcf1-b73f-4ea8-98c8-375af4695113,cushy.courses,available,1.98,50.98,high,low,5,namecheap,,,13/08/2026 11:58
 ae6c7d40-e2bd-4090-bcbb-2fb2812f8573,sophie.courses,available,1.98,50.98,high,low,6,namecheap,,,25/09/2026 11:44
+62b94612-ad94-432a-ab0b-68c6ffc1af68,restraining.courses,available,2.19,38.99,medium,low,11,namesilo,,,29/09/2026 03:20
 c21f54f1-1346-4ad2-9f6a-056780af0de9,shame.courses,available,2.19,38.99,high,low,5,namesilo,,,
 c921db21-0b11-48da-b006-6f130b371a92,slivery.courses,available,1.98,50.98,medium,low,7,namecheap,,,10/09/2026 11:13
 766c850a-9622-4a0f-8c8a-3cf550edb8b8,totally.courses,available,2.19,38.99,high,low,7,namesilo,,,22/09/2026 00:22
@@ -740,6 +797,7 @@ a82fce81-c2f2-48d1-9aeb-27cb8c524e09,shipment.courses,premium,116,116,high,low,8
 6386c313-bfb5-4cda-989d-27b7436f8b0b,bitterroot.courses,available,2.19,38.99,medium,low,10,namesilo,,,23/09/2026 23:08
 53691c13-4ab5-4a7e-8027-50a3c15fab13,kangeroo.courses,available,2.19,38.99,medium,low,8,namesilo,,,
 c032d069-9433-42bd-ae22-b23813e84ae6,libertine.courses,available,1.99,49.99,medium,low,9,name.com,,,13/08/2026 20:22
+5a70d836-a07e-4961-b843-68b466c1f3fb,jealousy.courses,available,2.19,38.99,medium,low,8,namesilo,,,28/09/2026 09:57
 b9a16e7e-90b0-4098-ab19-83159e7d06cc,collarless.courses,available,1.98,50.98,medium,low,10,namecheap,,,12/08/2026 16:40
 d65be24c-7c9c-4a7b-9d1e-84cf2a74a965,comstock.courses,available,2.19,38.99,high,low,8,namesilo,,,19/09/2026 13:40
 30949bdf-4ad4-4632-8322-dddef32fd595,snuggery.courses,available,1.98,50.98,high,medium,8,namecheap,,,10/09/2026 12:53
@@ -784,6 +842,7 @@ f612c5ac-a1b1-4a2b-9cf9-9265ef84eb45,cereal.courses,available,1.98,50.98,high,lo
 206078f5-c2fb-44ed-9b8e-8ba055556035,whim.courses,available,2.19,38.99,high,low,4,namesilo,,,24/09/2026 12:39
 9fda9862-211d-4937-8644-019d038601cd,turnovers.courses,available,2.19,38.99,medium,low,9,namesilo,,,19/09/2026 22:02
 3aa5bcc3-064e-4c2b-ba3a-46ae7e6ffe07,bountied.courses,available,1.98,50.98,high,medium,8,namecheap,,,10/08/2026 22:40
+e0444c33-5c62-40ab-8918-6f9e2c0b00dd,conquered.courses,available,1.54,31.41,medium,low,9,porkbun,,,28/09/2026 23:05
 b6e41f70-6f86-48cf-93fe-a68af0f4c1aa,amusement.courses,available,2.19,38.99,high,low,9,namesilo,,,26/09/2026 00:23
 523ae735-3698-4b6b-86c1-1769fcd40f3f,nokia.courses,available,,,high,high,5,,,,
 d2442ee9-9445-4bff-b8d0-bf6d27dfbb36,torture.courses,available,1.98,50.98,high,low,7,namecheap,,,11/09/2026 18:03
@@ -811,6 +870,7 @@ de7049bd-9723-49ca-9d2a-3e0f30eba1a4,swart.courses,available,1.98,50.98,medium,l
 f79e4ed9-9ad7-447c-b06b-9e6dbe41cce0,actuate.courses,available,1.98,50.98,high,low,7,namecheap,,,09/09/2026 03:15
 8a90b857-9960-4705-8830-08943ee24e2e,acting.courses,premium,1107,1107,high,low,6,namesilo,,,21/09/2026 16:22
 1e9d1fd6-f813-4b50-b12e-6fefa28c0e4c,highschool.courses,premium,6250,,high,low,10,name.com,,,
+86ecdf3b-3b56-40f5-9f21-268000e26b85,maya.courses,available,1.5,32.32,high,medium,4,dynadot,,,28/09/2026 10:22
 3d4d598b-de6b-4113-8fdd-022449c57b23,respiratory.courses,available,2.19,38.99,high,low,11,namesilo,,,
 0b6e1cae-197a-4f79-97ca-ae953cb48e07,condolence.courses,available,2.19,38.99,high,low,10,namesilo,,,
 b8580492-22db-48dc-a194-8128116bb0f5,absolver.courses,available,1.98,50.98,medium,low,8,namecheap,,,16/09/2026 18:07
@@ -844,7 +904,7 @@ cd601d0e-4540-4166-afb8-da5fe15670cd,uniquely.courses,available,2.19,38.99,high,
 d43d31a7-6530-48a7-bb8b-8cd8bc1beda2,striking.courses,available,2.19,38.99,high,low,8,namesilo,,,27/09/2026 07:25
 8c33446b-66d7-4f78-b0c5-0c23305d2f23,cursory.courses,available,1.98,50.98,medium,low,7,namecheap,,,13/08/2026 11:41
 ab51ee0c-b7e9-4432-bd69-6315190bac0d,sectorial.courses,available,1.98,50.98,medium,low,9,namecheap,,,10/09/2026 01:22
-87c186ca-1f9e-4e55-9467-02cf3c8371ca,stroke.courses,available,49.99,,high,low,6,name.com,,,
+87c186ca-1f9e-4e55-9467-02cf3c8371ca,stroke.courses,available,1.24,31.28,high,low,6,spaceship,,,28/09/2026 21:42
 81388e45-0a17-4913-a7bf-92bfc18089a3,clay.courses,available,2.19,38.99,high,low,4,namesilo,,,
 5dff017b-1986-4875-a8e0-3f1e87202b3f,planes.courses,available,2.19,38.99,high,low,6,namesilo,,,17/09/2026 03:50
 b6db3e79-2365-4b1d-9631-370608bd6bd0,fogged.courses,available,1.98,50.98,medium,low,6,namecheap,,,18/08/2026 09:51
@@ -856,6 +916,7 @@ d25097b6-556e-4f78-ae84-e760351d1f76,ribless.courses,available,1.98,50.98,medium
 0aaf0a04-7df1-435e-b575-914720e0b1cf,raccoon.courses,available,2.19,38.99,high,low,7,namesilo,,,
 8a63ee39-6203-4725-862c-507733ee9416,fumed.courses,available,1.98,50.98,medium,low,5,namecheap,,,18/08/2026 18:20
 4cbc6609-0929-4f7b-8131-013f7e7a9c01,zimmerman.courses,available,1.24,31.28,high,low,9,spaceship,,,27/09/2026 20:41
+dea082e7-65fe-49cd-8d66-a129fa36cde1,cpc.courses,premium,640,640,high,low,3,namesilo,,,28/09/2026 16:33
 5c5bc275-9565-4314-8d35-5223883bc052,ubiquitous.courses,available,1.98,50.98,high,low,10,namecheap,,,04/09/2026 13:54
 0e9b88f3-0644-4984-9f15-39ba1a1707a0,environmental.courses,resell,,,high,low,13,"NameCheap, Inc.",07/02/2024 14:17,07/02/2027 14:17,26/09/2026 05:52
 03079b14-7f7d-483f-a39a-16cc6dc6a0ce,malformed.courses,available,1.98,50.98,medium,low,9,namecheap,,,13/08/2026 23:43
@@ -877,7 +938,8 @@ e537e549-ec84-4365-8517-278e4802e2a5,inherited.courses,available,1.98,50.98,high
 0c8dae95-2f96-44d3-8751-af230e556e89,racer.courses,available,2.19,38.99,high,low,5,namesilo,,,21/09/2026 07:11
 5f6e5413-f5cc-423e-adc9-9a23e5529180,graven.courses,available,1.98,50.98,medium,low,6,namecheap,,,17/08/2026 07:43
 67e934b7-d281-4094-805d-844131c525e1,lavoisier.courses,available,2.19,38.99,medium,low,9,namesilo,,,19/09/2026 15:25
-c55da58c-c73b-4095-8d66-6408f7ebeb5d,swiftly.courses,available,49.99,,high,low,7,name.com,,,
+c55da58c-c73b-4095-8d66-6408f7ebeb5d,swiftly.courses,available,2.19,38.99,high,low,7,namesilo,,,28/09/2026 14:53
+c25f3740-443d-4c57-83c8-81ba3f9ab4ed,allows.courses,available,2.19,38.99,low,low,6,namesilo,,,28/09/2026 08:44
 c0b5bb1f-16d8-4462-b8d0-ed2dc0e83a87,willful.courses,available,1.98,50.98,medium,low,7,namecheap,,,18/08/2026 16:37
 e5c87db7-bef4-4429-a485-04d7a30d7b29,coil.courses,available,1.98,50.98,high,low,4,namecheap,,,10/09/2026 15:52
 2f7c7a9c-b6ac-465f-9401-31576672cd8d,blatta.courses,available,2.19,38.99,medium,low,6,namesilo,,,24/09/2026 04:54
@@ -909,18 +971,22 @@ e9739def-30f6-4bc9-9a77-85924698475d,goal.courses,available,2.19,38.99,high,low,
 0f10341c-2374-498b-b151-950ff48f3b98,previous.courses,available,2.19,38.99,high,low,8,namesilo,,,
 359263f9-2546-4689-8f28-19c97f07bbbc,winy.courses,available,1.98,50.98,medium,low,4,namecheap,,,13/09/2026 12:25
 d1ac39cc-9aae-4fb3-9452-1f721db1465a,blackbeard.courses,available,2.19,38.99,high,low,10,namesilo,,,24/09/2026 02:06
+f4b0b062-21ab-4340-b2e6-4d6368adae54,frankenstein.courses,available,1.98,50.98,high,low,12,namecheap,,,28/09/2026 21:01
 58d9e821-9b47-44c3-ad97-001dd0d917c7,glamorous.courses,premium,116,116,high,low,9,namesilo,,,19/08/2026 00:15
 a0ed1670-fbb6-4a9b-8979-547213cd2caf,separation.courses,available,2.19,38.99,high,low,10,namesilo,,,
 3a809b80-daaf-4cac-b76a-33ed63dfe5a5,depend.courses,available,2.19,38.99,high,low,6,namesilo,,,
 5bb53fb1-9dcc-4773-835f-4be5b4f730e1,carnation.courses,available,1.98,50.98,high,low,9,namecheap,,,11/08/2026 19:26
+0bee68d9-b737-4d09-b605-ab70fcf58292,stubbs.courses,available,1.24,31.28,medium,low,6,spaceship,,,28/09/2026 20:34
 ff75c79b-c309-440e-8ef8-d3d816b4135c,viennese.courses,available,1.98,50.98,high,low,8,namecheap,,,13/09/2026 05:30
 6348ec0c-e831-485f-a931-495007917a4f,backslash.courses,available,49.99,,high,low,9,name.com,,,
+c398bc85-527d-4b58-b76d-6cef68ff7527,pea.courses,premium,640,640,medium,low,3,namesilo,,,28/09/2026 15:03
 d7277338-587d-40f3-9365-e1bd528add3e,procurable.courses,available,1.98,50.98,medium,low,10,namecheap,,,18/08/2026 23:08
 0a9ffdca-5418-4cb5-afbb-6e32f1a2ccf6,goosefish.courses,available,2.19,38.99,medium,low,9,namesilo,,,18/09/2026 11:40
 113cd43b-5948-4a20-945f-a36bda379e78,executed.courses,available,1.98,50.98,high,low,8,namecheap,,,17/08/2026 16:55
 5c6fc23d-438a-4247-ad3f-7ddc4105c87f,navarino.courses,available,1.98,50.98,medium,low,8,namecheap,,,22/09/2026 15:32
 a2ee485f-4c78-49ad-9336-a486baefa4c6,ductile.courses,available,1.98,50.98,high,low,7,namecheap,,,14/08/2026 20:50
 7d67e0bb-0d12-4be4-a267-e95deb6d37ed,median.courses,available,2.19,38.99,high,low,6,namesilo,,,25/09/2026 18:47
+1e80664a-cb2e-4622-91e0-5b00ca2969fd,kanawha.courses,available,1.98,50.98,medium,low,7,namecheap,,,29/09/2026 01:29
 801f6125-e652-413a-b79d-cf3378d933f0,kept.courses,available,2.19,38.99,high,low,4,namesilo,,,25/09/2026 12:27
 0c35d00e-68a1-403b-bcdc-cff6c9afe18c,maple.courses,available,2.19,38.99,high,medium,5,namesilo,,,28/09/2026 06:21
 640b9284-e497-4dd0-9ab2-0c151763f604,salon.courses,available,2.19,38.99,high,low,5,namesilo,,,22/09/2026 22:23
@@ -931,71 +997,5 @@ eb91d153-ab8d-4157-bc14-0be558fed1bd,algebraic.courses,available,1.98,50.98,high
 965d48f5-780b-4443-a7f0-a2a23399ef22,hedge.courses,available,2.19,38.99,high,low,5,namesilo,,,
 852f7ed3-2695-4e08-8290-e6e7d8c2b8a7,cloning.courses,available,2.19,38.99,high,low,7,namesilo,,,24/09/2026 15:52
 051f4a2a-e468-4cb5-8f84-9426b6cd275a,betaine.courses,available,2.19,38.99,medium,low,7,namesilo,,,23/09/2026 11:03
+376f48a4-14f5-4fc5-a03e-a44280a63106,stew.courses,available,1.24,31.28,medium,low,4,spaceship,,,28/09/2026 09:50
 cefec61d-a889-456d-b65b-0e394ff2d873,desiccated.courses,available,1.98,50.98,medium,low,10,namecheap,,,14/08/2026 03:33
-b9aba3e8-75f3-487c-965f-ff854322cf22,unusually.courses,available,1.98,50.98,medium,low,9,namecheap,,,15/09/2026 23:04
-b809326f-a65f-4b8a-b911-58b623dfb89a,conduct.courses,available,2.19,38.99,high,low,7,namesilo,,,23/09/2026 03:13
-4539f6bc-c192-4bfc-989b-8803d4c21147,sixtieth.courses,available,1.98,50.98,medium,low,8,namecheap,,,
-2516019d-bb6b-4e72-8260-e58eef2481c5,alcoholism.courses,available,1.99,49.99,high,low,10,name.com,,,18/09/2026 04:06
-6148d323-f859-44be-9445-73deb62eb5bd,acrylate.courses,available,2.19,38.99,medium,low,8,namesilo,,,17/09/2026 04:05
-ca7167f3-8fe5-4399-b3da-b44a43217ecf,synovial.courses,available,1.98,50.98,medium,low,8,namecheap,,,11/09/2026 06:37
-70d37942-132c-4fb5-a15a-06028dca10e5,larger.courses,available,1.98,50.98,high,low,6,namecheap,,,22/09/2026 20:38
-d815d341-54f7-4e01-a447-ea0c565db6d6,bremen.courses,available,2.19,38.99,high,low,6,namesilo,,,25/09/2026 21:59
-ef66a589-7d78-492a-8c14-2ebbbfd7ac44,weirdly.courses,available,1.98,50.98,medium,low,7,namecheap,,,16/09/2026 11:23
-44bfca22-356b-4d14-acbd-c24e22bf0af8,focusing.courses,available,2.19,38.99,high,low,8,namesilo,,,24/09/2026 13:33
-27ee3b79-eed9-4cd8-82e2-e33edb4f30f8,adverse.courses,available,1.98,50.98,medium,low,7,namecheap,,,
-1dfd5f30-f435-4fc0-b654-a7ca1da6e066,bayer.courses,available,2.19,38.99,high,medium,5,namesilo,,,
-65ae2336-aeb6-43f1-bb56-f10da0facfe0,barbu.courses,available,2.19,38.99,medium,low,5,namesilo,,,22/09/2026 05:04
-19c3e918-9c64-43e1-ac1b-b499367eeb9b,hears.courses,available,2.19,38.99,medium,low,5,namesilo,,,18/09/2026 07:47
-f9e9af9a-e88c-472d-bfd1-bdbc41c9a968,wasteland.courses,available,1.98,50.98,medium,low,9,namecheap,,,08/08/2026 21:11
-cddc9c19-1dbf-4cee-ba37-c79f452f372f,encouraged.courses,available,2.19,38.99,high,low,10,namesilo,,,23/09/2026 10:08
-7fbbd43a-f9f5-42f7-a21e-65514dcf557f,priest.courses,premium,242,242,high,low,6,namesilo,,,27/09/2026 04:53
-fe3abe2a-4876-45d5-8e8c-d2ca68d07c9a,alliance.courses,available,1.98,50.98,high,low,8,namecheap,,,18/09/2026 07:42
-29c0f3cb-7344-441d-8706-fe0148dea3d6,expressly.courses,available,1.98,50.98,medium,low,9,namecheap,,,14/09/2026 17:09
-8c3df813-d16f-453c-a656-0d6bec37dd24,electrical.courses,premium,242,242,high,low,10,namesilo,,,16/08/2026 02:39
-a4f2dafb-c5f3-40cd-908e-cc3207bc5967,virtuoso.courses,available,2.19,38.99,high,low,8,namesilo,,,21/09/2026 17:38
-892f6586-41dd-4a70-980d-fcd4c56bb9f0,catkinate.courses,available,1.98,50.98,medium,low,9,namecheap,,,11/08/2026 22:09
-453a2f94-791c-43d6-ab54-7bbe31bce0e6,xxx.courses,premium,6250,6250,high,medium,3,name.com,,,
-e0878444-edbc-4438-ab62-cbe66eb23fa6,baruch.courses,available,2.19,38.99,medium,low,6,namesilo,,,22/09/2026 09:33
-0eac8f05-e04b-4622-9c05-111608746d76,calculations.courses,available,2.19,38.99,medium,low,12,namesilo,,,17/09/2026 02:07
-821ee48f-2930-4bf5-9536-443ece8b541e,june.courses,available,2.19,38.99,high,low,4,namesilo,,,
-ce27d302-af13-4939-b8f9-d5ab1e6b0370,addiction.courses,resell,,,high,low,9,"Spaceship, Inc.",04/09/2026 16:12,04/09/2027 16:12,26/09/2026 01:22
-94095aee-08b6-4ebe-bf79-9b15ad521ab9,dubious.courses,available,1.98,50.98,medium,low,7,namecheap,,,14/08/2026 16:57
-012c9f0f-6743-4c05-9976-f8e9a46e2ccb,ritchie.courses,available,2.19,38.99,high,low,7,namesilo,,,25/09/2026 16:00
-701fc973-b8c8-4417-8ee2-27b7207c02e7,sidereal.courses,available,1.98,50.98,high,medium,8,namecheap,,,10/09/2026 07:46
-70efdfee-4e65-41a7-a75d-7aef478e7b00,anecdote.courses,available,2.19,38.99,high,low,8,namesilo,,,19/09/2026 05:07
-40b18d62-4f1e-4606-99ed-a916401a359e,alcyone.courses,available,1.98,50.98,medium,low,7,namecheap,,,20/08/2026 22:22
-e909452e-89ac-4028-95f3-5cbf91cbae84,elliptical.courses,available,1.98,50.98,high,low,10,namecheap,,,15/08/2026 18:01
-ae2a92ba-84a4-44cc-a92e-507ab5961492,caleb.courses,available,2.19,38.99,high,low,5,namesilo,,,27/09/2026 11:16
-3ea10275-2c11-4440-95d1-6be297e91f80,cancerous.courses,available,1.98,50.98,medium,low,9,namecheap,,,11/08/2026 16:33
-0661e9a7-ddad-40b1-ab77-85be21c47f79,bitty.courses,available,1.98,50.98,high,low,5,namecheap,,,10/08/2026 07:51
-21bf4156-da4b-4031-bb3e-3dd5a4ceba94,roam.courses,available,1.98,50.98,high,low,4,namecheap,,,10/09/2026 22:08
-c1bffd49-ce4c-4817-bd9c-3484bd4f1245,koala.courses,available,2.19,38.99,high,low,5,namesilo,,,
-b2b9ec3c-5c7e-4a22-bdcc-2910f7c7befd,collections.courses,available,2.19,38.99,medium,low,11,namesilo,,,17/09/2026 22:06
-58878ab7-4a17-46e1-b6a8-8bb70c0eb41a,stagy.courses,available,1.98,50.98,medium,low,5,namecheap,,,10/09/2026 18:04
-8ae28eb3-2a9c-4d6c-a963-b090662c44d3,jaggy.courses,available,1.98,50.98,medium,low,5,namecheap,,,17/08/2026 12:34
-4145f7aa-91ac-421e-8c3e-35744e008bf7,guggenheim.courses,available,2.19,38.99,medium,low,10,namesilo,,,27/09/2026 04:18
-0edcbee7-8b09-48d1-a3d0-e3abaca0e818,sonia.courses,available,2.19,38.99,high,low,5,namesilo,,,28/09/2026 03:44
-f295397f-917c-4458-814f-6662be47b818,nimiety.courses,available,1.98,50.98,medium,low,7,namecheap,,,17/08/2026 16:13
-dd271faa-0c9b-498f-8d17-60cee9f4d314,orwellian.courses,available,1.98,50.98,medium,low,9,namecheap,,,04/09/2026 18:08
-4de00fa8-a454-4cfe-9ed6-bed39542f4ae,soto.courses,available,2.19,38.99,high,low,4,namesilo,,,27/09/2026 07:28
-d8eb8152-2f28-49e8-b769-f1c24df03c08,absolutely.courses,available,2.19,38.99,high,low,10,namesilo,,,
-8b07244e-d814-4142-834f-056af168a4fb,accessary.courses,available,1.98,50.98,medium,low,9,namecheap,,,
-66c17fd3-27a9-48b8-aa16-a8dc2b0a2e5c,lebanese.courses,premium,116,116,high,low,8,namesilo,,,22/08/2026 22:15
-d34a6b4b-539d-491a-8bd0-6743e2e8cb8d,miss.courses,premium,116,116,high,low,4,namesilo,,,27/09/2026 03:56
-ee9a78f2-852b-4832-895c-aa9259805dc5,majority.courses,available,2.19,38.99,high,low,8,namesilo,,,
-fa8c4c13-752f-4db0-acb4-ea6dca99bd54,aimless.courses,available,1.98,50.98,medium,low,7,namecheap,,,
-b05af156-ecf6-489d-a454-eb051b45b820,germicide.courses,available,1.98,50.98,medium,low,9,namecheap,,,
-f1bcc9ec-7dff-40cf-9c22-b21c719dc7d7,ward.courses,available,1.98,50.98,high,low,4,namecheap,,,16/09/2026 13:33
-994e03d7-b82b-48b2-ab7e-8fd4bd420c3d,batman.courses,available,2.19,38.99,high,low,6,namesilo,,,
-cecbf590-e0d8-4bad-91de-94f102dd0e6f,cigarette.courses,available,1.98,50.98,high,low,9,namecheap,,,25/09/2026 04:15
-a9251430-5715-4cb3-bf5e-2a51493992ff,jumbled.courses,available,1.98,50.98,medium,low,7,namecheap,,,21/08/2026 08:39
-62b109bc-53be-4f94-9763-1019c93e1801,terrorist.courses,available,1.98,50.98,medium,low,9,namecheap,,,25/09/2026 10:50
-02118389-1c52-45c5-8e10-9d2164a8fb53,hoodlum.courses,available,1.98,50.98,high,medium,7,namecheap,,,09/09/2026 06:04
-06d0e4d7-19c1-41fb-ac0c-b885fe3ec991,biotite.courses,available,1.98,50.98,medium,low,7,namecheap,,,23/09/2026 19:13
-4afcc4af-b0b1-495e-ba0a-5df5f80b0427,tone.courses,available,2.19,38.99,high,low,4,namesilo,,,
-822a8546-3120-4388-a893-f3c28ccc9bc8,anvil.courses,available,2.19,38.99,high,low,5,namesilo,,,19/09/2026 15:57
-1a0fff3e-0351-4c93-a137-84fd85b10c2e,apothecium.courses,available,1.98,50.98,medium,low,10,namecheap,,,19/09/2026 19:43
-5f42c40c-d743-44f8-bf1f-7159b063772a,lordless.courses,available,1.98,50.98,low,low,8,namecheap,,,24/08/2026 09:52
-73257cb0-8736-4bb6-826f-d841fc6f276c,anunnaki.courses,available,2.19,38.99,medium,low,8,namesilo,,,19/09/2026 15:51
-25c95cf6-eff0-4b10-8690-7df90aa7ed9d,refractory.courses,available,1.98,50.98,medium,low,10,namecheap,,,18/08/2026 13:55
-40effc57-bbf9-4e51-accc-cd78de6a3cef,unlucky.courses,available,1.98,50.98,medium,low,7,namecheap,,,21/08/2026 19:11
